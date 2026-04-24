@@ -1,0 +1,61 @@
+---
+import casinos from '../../data/casinos.json';
+
+export async function getStaticPaths() {
+  const cryptos = ['bitcoin', 'ethereum', 'solana', 'dogecoin'];
+  const games = ['cs2', 'valorant', 'slots', 'mines'];
+  const countries = ['greece', 'canada', 'germany', 'brazil'];
+
+  return countries.flatMap((country) => 
+    games.flatMap((game) => 
+      cryptos.map((crypto) => ({
+        params: { crypto, game, country },
+        props: { 
+            // Filter: Only show casinos that support THIS crypto, game, AND country
+            filteredCasinos: casinos.filter(c => 
+                c.supportedCryptos.includes(crypto.substring(0,3)) && 
+                c.supportedGames.includes(game) && 
+                c.allowedCountries.includes(country)
+            ) 
+        }
+      }))
+    )
+  );
+}
+
+const { crypto, game, country } = Astro.params;
+const { filteredCasinos } = Astro.props;
+---
+
+<html lang="en">
+	<head>
+		<meta charset="utf-8" />
+		<title>Best {crypto} Casinos for {game} in {country} (2026)</title>
+	</head>
+	<body class="bg-slate-900 text-white p-10 font-sans">
+		<h1 class="text-3xl font-extrabold capitalize border-b border-slate-700 pb-4">
+            Best {crypto} Casinos for {game} in {country}
+        </h1>
+		
+        <div class="mt-8 space-y-4">
+            {filteredCasinos.length > 0 ? (
+                filteredCasinos.map(casino => (
+                    <div class="p-6 bg-slate-800 rounded-xl border border-slate-700 flex justify-between items-center hover:border-blue-500 transition">
+                        <div>
+                            <h2 class="text-xl font-bold">{casino.name}</h2>
+                            <p class="text-blue-400 font-semibold">{casino.bonus}</p>
+                            <span class="text-xs text-slate-400">Rating: {casino.rating}/5</span>
+                        </div>
+                        <a href={casino.link} class="bg-blue-600 hover:bg-blue-500 px-6 py-3 rounded-lg font-bold text-sm uppercase tracking-wider transition">
+                            Visit Site
+                        </a>
+                    </div>
+                ))
+            ) : (
+                <div class="p-10 bg-slate-800/50 rounded-xl border border-dashed border-slate-700 text-center">
+                    <p class="text-slate-400 italic">Searching for the best {crypto} options in {country}...</p>
+                </div>
+            )}
+        </div>
+	</body>
+</html>

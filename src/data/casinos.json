@@ -1,0 +1,22 @@
+[
+  {
+    "id": "stake",
+    "name": "Stake",
+    "bonus": "200% up to $1000",
+    "rating": 4.8,
+    "supportedCryptos": ["btc", "eth", "sol", "doge"],
+    "supportedGames": ["cs2", "valorant", "slots"],
+    "allowedCountries": ["greece", "canada", "germany"],
+    "link": "https://stake.com/?c=your-id"
+  },
+  {
+    "id": "roobet",
+    "name": "Roobet",
+    "bonus": "70 Free Spins",
+    "rating": 4.5,
+    "supportedCryptos": ["btc", "eth", "ltc"],
+    "supportedGames": ["slots", "mines", "crash"],
+    "allowedCountries": ["canada", "brazil"],
+    "link": "https://roobet.com/?a=your-id"
+  }
+]
