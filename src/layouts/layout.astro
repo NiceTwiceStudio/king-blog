@@ -1,0 +1,61 @@
+---
+import Header from '../components/Header.astro';
+import "../styles/global.css";
+
+interface Props {
+    title: string;
+    description: string;
+    ogImage?: string;
+}
+
+const { title, description, ogImage = "/default-og.png" } = Astro.props;
+
+// We use a try/catch or a fallback for the canonical URL to prevent build errors 
+// if the site URL isn't fully configured in astro.config.mjs yet.
+const canonicalURL = Astro.site 
+    ? new URL(Astro.url.pathname, Astro.site) 
+    : new URL(Astro.url.pathname, 'https://betking.blog');
+---
+<!doctype html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>{title}</title>
+        <meta name="description" content={description} />
+        <link rel="canonical" href={canonicalURL} />
+
+        <meta property="og:type" content="website" />
+        <meta property="og:url" content={canonicalURL} />
+        <meta property="og:title" content={title} />
+        <meta property="og:description" content={description} />
+        <meta property="og:image" content={ogImage} />
+
+        <meta property="twitter:card" content="summary_large_image" />
+        <meta property="twitter:url" content={canonicalURL} />
+        <meta property="twitter:title" content={title} />
+        <meta property="twitter:description" content={description} />
+        <meta property="twitter:image" content={ogImage} />
+        
+        <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    </head>
+    <body class="bg-king-bg text-white selection:bg-king-accent antialiased">
+        <Header />
+        <slot />
+    </body>
+</html>
+
+<style is:global>
+    /* This ensures smooth scrolling and better font rendering 
+       across your 50,000 programmatic pages.
+    */
+    html {
+        scroll-behavior: smooth;
+    }
+    
+    body {
+        min-height: 100vh;
+        display: flex;
+        flex-direction: column;
+    }
+</style>

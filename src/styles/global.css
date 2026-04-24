@@ -1,1 +1,15 @@
 @import "tailwindcss";
+@import "@fontsource/chakra-petch/400.css";
+@import "@fontsource/chakra-petch/700.css";
+
+@theme {
+  --font-sans: "Chakra Petch", system-ui, sans-serif; /* Sets as default */
+	
+  --color-king-primary: #10bd68;
+  --color-king-bg: #192129;
+  --color-king-panel: #242f38;
+  --color-king-border: #32404a;
+  --color-king-text: #6e8387;
+  --color-king-accent: #578c7b;
+  --color-king-muted: #3b4853;
+}

@@ -1,17 +1,16 @@
 ---
-
+import Layout from '../layouts/Layout.astro';
+import Footer from '../components/Footer.astro';
 ---
-
-<html lang="en">
-	<head>
-		<meta charset="utf-8" />
-		<link rel="icon" type="image/svg+xml" href="/favicon.svg" />
-		<link rel="icon" href="/favicon.ico" />
-		<meta name="viewport" content="width=device-width" />
-		<meta name="generator" content={Astro.generator} />
-		<title>Astro</title>
-	</head>
-	<body>
-		<h1>Astro</h1>
-	</body>
-</html>
+<Layout title="BetKing.blog - The Home of Crypto Betting">
+    <main class="max-w-4xl mx-auto py-20 px-6 text-center">
+        <h1 class="text-6xl font-black text-white mb-6">Master the Game.</h1>
+        <p class="text-xl text-slate-400 mb-10">Real-time crypto casino data and esports betting guides.</p>
+        <div class="grid grid-cols-1 md:grid-cols-3 gap-6">
+            <a href="/solana/cs2-betting-in-canada" class="p-6 bg-slate-800 rounded-xl hover:bg-slate-700 transition border border-slate-700">SOL + CS2</a>
+            <a href="/bitcoin/slots-betting-in-germany" class="p-6 bg-slate-800 rounded-xl hover:bg-slate-700 transition border border-slate-700">BTC + Slots</a>
+            <a href="/ethereum/mines-betting-in-greece" class="p-6 bg-slate-800 rounded-xl hover:bg-slate-700 transition border border-slate-700">ETH + Mines</a>
+        </div>
+    </main>
+    <Footer />
+</Layout>

@@ -1,0 +1,48 @@
+---
+const navItems = [
+  { name: 'Search by Cryptocurrency', href: '#', hasSubmenu: true },
+  { name: 'Search by Game', href: '#', hasSubmenu: true },
+  { name: 'Betting Predictions', href: '#', hasSubmenu: false },
+  { name: 'More', href: '#', hasSubmenu: true },
+];
+---
+
+<header class="w-full bg-king-panel border-b border-king-border sticky top-0 z-50 font-sans">
+  <div class="max-w-[1440px] mx-auto px-6 h-16 flex items-center justify-between">
+    
+    <div class="flex items-center">
+      <a href="/" class="flex items-center gap-2">
+        <img src="/betking-logo.svg" alt="BetKing Logo" class="h-8 w-auto" />
+      </a>
+    </div>
+
+    <nav class="hidden md:flex items-center gap-8">
+      {navItems.map((item) => (
+        <a 
+          href={item.href} 
+          class="group flex items-center gap-1.5 text-[14px] font-bold text-king-text hover:text-king-accent transition-colors duration-200 capitalize tracking-tight"
+        >
+          <span class="leading-none">{item.name}</span>
+          {item.hasSubmenu && (
+            <svg 
+              xmlns="http://www.w3.org/2000/svg" 
+              class="w-3 h-3 fill-current group-hover:text-king-accent transition-colors mt-[1px]" 
+              viewBox="0 0 256 256"
+            >
+              <path d="m213.66 101.66-80 80a8 8 0 0 1-11.32 0l-80-80A8 8 0 0 1 48 88h160a8 8 0 0 1 5.66 13.66" />
+            </svg>
+          )}
+        </a>
+      ))}
+    </nav>
+
+    <div class="flex items-center">
+      <button class="p-2 text-king-text hover:text-king-accent transition-colors cursor-pointer flex items-center justify-center" aria-label="Search">
+        <svg xmlns="http://www.w3.org/2000/svg" class="w-6 h-6 fill-current" viewBox="0 0 256 256">
+            <path d="m229.66 218.34-50.07-50.06a88.11 88.11 0 1 0-11.31 11.31l50.06 50.07a8 8 0 0 0 11.32-11.32M40 112a72 72 0 1 1 72 72 72.08 72.08 0 0 1-72-72" />
+        </svg>
+      </button>
+    </div>
+
+  </div>
+</header>
