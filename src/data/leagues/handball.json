@@ -1,0 +1,35 @@
+[
+  /* 🌍 EUROPEAN INTERNATIONAL CLUB COMPETITIONS */
+  { "id": "ehf-champions-league", "name": "EHF Champions League", "region": "Europe", "tagline": "the world's premier club handball competition featuring the elite of Europe" },
+  { "id": "ehf-european-league", "name": "EHF European League", "region": "Europe", "tagline": "high-stakes european club handball wagering on the second-tier circuit" },
+  { "id": "ehf-european-cup", "name": "EHF European Cup", "region": "Europe", "tagline": "competitive knockout handball betting for rising european clubs" },
+
+  /* 🇩🇪 GERMANY - THE GOLD STANDARD */
+  { "id": "handball-bundesliga", "name": "Handball-Bundesliga (HBL)", "country": "Germany", "tagline": "the world's strongest and most competitive domestic handball league" },
+  { "id": "bundesliga-2-handball", "name": "2. Bundesliga", "country": "Germany", "tagline": "intense second-division german handball wagering and promotion battles" },
+
+  /* 🇫🇷 FRANCE / 🇪🇸 SPAIN / 🇩🇰 DENMARK */
+  { "id": "lnh-starligue", "name": "LNH Starligue", "country": "France", "tagline": "elite french professional handball betting with world-class rosters" },
+  { "id": "liga-asobal", "name": "Liga ASOBAL", "country": "Spain", "tagline": "historic spanish powerhouse handball league with elite match odds" },
+  { "id": "herre-handbold-ligaen", "name": "Danish Handball League", "country": "Denmark", "tagline": "top-flight danish men's handball wagering from a global talent hub" },
+  { "id": "damehandboldligaen", "name": "Danish Women's League", "country": "Denmark", "tagline": "the world's premier women's professional handball circuit" },
+
+  /* 🇭🇺 HUNGARY / 🇵🇱 POLAND / 🇷🇴 ROMANIA */
+  { "id": "nb-1-hungary", "name": "Nemzeti Bajnokság I", "country": "Hungary", "tagline": "high-level hungarian domestic handball wagering and title races" },
+  { "id": "superliga-poland", "name": "Orlen Superliga", "country": "Poland", "tagline": "fast-growing polish professional handball league with elite club action" },
+  { "id": "liga-nationala-romania", "name": "Liga Națională", "country": "Romania", "tagline": "competitive romanian domestic handball betting for men and women" },
+
+  /* 🇸🇪 SWEDEN / 🇳🇴 NORWAY */
+  { "id": "handbollsligan", "name": "Handbollsligan", "country": "Sweden", "tagline": "scandinavia's premier professional handball circuit in Sweden" },
+  { "id": "rema-1000-ligaen", "name": "Eliteserien", "country": "Norway", "tagline": "top-tier norwegian handball wagering and championship match odds" },
+
+  /* 🌍 MIDDLE EAST & AFRICA (THE POWERHOUSES) */
+  { "id": "egyptian-handball-league", "name": "Egyptian Handball League", "country": "Egypt", "tagline": "africa's strongest professional handball circuit with elite club odds" },
+  { "id": "qatari-handball-league", "name": "Qatari Handball League", "country": "Qatar", "tagline": "high-investment middle eastern handball wagering featuring global talent" },
+  { "id": "saudi-handball-league", "name": "Saudi Handball League", "country": "Saudi Arabia", "tagline": "rapidly growing professional handball circuit in the middle east" },
+
+  /* 🇯🇵 ASIA & 🇧🇷 LATAM */
+  { "id": "jhl-japan", "name": "Japan Handball League", "country": "Japan", "tagline": "professional japanese domestic handball wagering and match results" },
+  { "id": "sk-handball-korea", "name": "Handball Korea League", "country": "South Korea", "tagline": "south korea's premier professional handball competition odds" },
+  { "id": "lnh-brazil", "name": "Liga Nacional de Handebol", "country": "Brazil", "tagline": "the highest level of professional domestic handball in Brazil" }
+]

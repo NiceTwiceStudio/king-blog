@@ -1,0 +1,27 @@
+[
+  /* 🏆 THE INTERNATIONAL SHOWPIECES */
+  { "id": "six-nations", "name": "Six Nations Championship", "region": "Europe", "tagline": "the historic battle for northern hemisphere supremacy featuring the world's elite" },
+  { "id": "rugby-championship", "name": "The Rugby Championship", "region": "Southern Hemisphere", "tagline": "elite tier-1 southern hemisphere clashes between the All Blacks, Springboks, Wallabies, and Pumas" },
+  { "id": "autumn-nations-series", "name": "Autumn Nations Series", "region": "International", "tagline": "the ultimate north vs south test matches featuring the world's top-ranked nations" },
+  { "id": "six-nations-women", "name": "Women's Six Nations", "region": "Europe", "tagline": "the premier professional women's international rugby championship in Europe" },
+
+  /* 🌍 EUROPEAN CLUB POWERHOUSES */
+  { "id": "investec-champions-cup", "name": "Investec Champions Cup", "region": "Europe/SA", "tagline": "the 'Champions League' of rugby: the pinnacle of professional club competition" },
+  { "id": "epcr-challenge-cup", "name": "EPCR Challenge Cup", "region": "Europe/SA", "tagline": "high-stakes knockout rugby wagering on the second-tier continental circuit" },
+  { "id": "top-14", "name": "Top 14 France", "country": "France", "tagline": "the world's most physically demanding domestic league with elite global talent" },
+  { "id": "gallagher-premiership", "name": "Premiership Rugby", "country": "UK", "tagline": "the elite tier of english professional rugby union with high-tempo match action" },
+  { "id": "urc", "name": "United Rugby Championship", "region": "IRE/ITA/SCO/WAL/SA", "tagline": "a diverse multi-national powerhouse league featuring the stars of five nations" },
+
+  /* 🌏 SOUTHERN HEMISPHERE & ASIA */
+  { "id": "super-rugby-pacific", "name": "Super Rugby Pacific", "region": "Pacific", "tagline": "fast-paced southern hemisphere rugby featuring teams from NZ, Australia, and Fiji" },
+  { "id": "japan-rugby-league-one", "name": "Japan Rugby League One", "country": "Japan", "tagline": "the high-spending home of global superstars: professional rugby betting in Japan" },
+  { "id": "currie-cup", "name": "Currie Cup", "country": "South Africa", "tagline": "the oldest domestic rugby competition in the world: the heart of south african pride" },
+  { "id": "npc-nz", "name": "NPC (Bunnings Warehouse NPC)", "country": "New Zealand", "tagline": "new zealand's elite provincial championship: the breeding ground for All Blacks" },
+
+  /* 🇺🇸 NORTH AMERICAN & EMERGING */
+  { "id": "mlr", "name": "Major League Rugby (MLR)", "country": "USA/Canada", "tagline": "the premier professional rugby union league in North America with rapid expansion" },
+  { "id": "super-rugby-americas", "name": "Super Rugby Americas", "region": "South America", "tagline": "professional south american club rugby match wagering from the americas circuit" },
+
+  /* 🏉 RUGBY SEVENS & SPECIALS */
+  { "id": "svns", "name": "HSBC SVNS Series", "region": "Global", "tagline": "high-octane seven-a-side rugby wagering: fast results and olympic-style drama" }
+]

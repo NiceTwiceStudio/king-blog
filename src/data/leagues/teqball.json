@@ -1,0 +1,19 @@
+[
+  /* 🏆 THE GLOBAL PINNACLE */
+  { "id": "world-teqball-championships", "name": "World Teqball Championships", "region": "Global", "tagline": "the ultimate showdown for global supremacy: crowning the 2026 world champions" },
+  { "id": "teqball-tour-dezhou", "name": "Teqball Tour Dezhou 2026", "country": "China", "tagline": "elite tier III world tour event: high-stakes wagering in China (June 12-14, 2026)" },
+
+  /* 🥇 MAJOR MULTI-SPORT GAMES (2026 HIGHLIGHTS) */
+  { "id": "asian-beach-games-teqball", "name": "Asian Beach Games Sanya 2026", "region": "Asia", "tagline": "live now: teqball's historic debut at the 6th Asian Beach Games in Sanya (April 24-28)" },
+  { "id": "european-games-teqball", "name": "European Games", "region": "Europe", "tagline": "the premier continental multi-sport event for european teqball dominance" },
+
+  /* 🥈 CHALLENGER TEQBALL LEAGUES (HIGH-FREQUENCY) */
+  { "id": "challenger-teqball-league-paris", "name": "Challenger Teqball League - Paris", "country": "France", "tagline": "live this weekend: elite french domestic and international challenger wagering" },
+  { "id": "challenger-teqball-league-grindsted", "name": "Challenger Teqball League - Denmark", "country": "Denmark", "tagline": "upcoming nordic teqball action from the high-growth danish circuit (May 27, 2026)" },
+  { "id": "challenger-teqball-league-monaco", "name": "Challenger Teqball League - Monaco", "country": "Monaco", "tagline": "glamour and precision: high-stakes challenger matches in Monte Carlo (June 25, 2026)" },
+
+  /* 🌍 REGIONAL LEAGUES & OPENS */
+  { "id": "adriatic-teqball-league", "name": "Adriatic Teqball League", "region": "Balkans", "tagline": "the heart of eastern european teqball: elite matches from Montenegro to Bosnia" },
+  { "id": "teqball-open-setubal", "name": "Teqball Open - Setubal", "country": "Portugal", "tagline": "portuguese domestic teqball wagering: a hub for the world's top-ranked talent" },
+  { "id": "teqball-usa-national-tour", "name": "USA Teqball National Tour", "country": "USA", "tagline": "the rapidly expanding north american circuit: high-energy match odds and results" }
+]

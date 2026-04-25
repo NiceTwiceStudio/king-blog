@@ -1,0 +1,26 @@
+[
+  /* 🏆 THE "BIG FOUR" SANCTIONING BODIES (THE BELT OWNERS) */
+  { "id": "wbc", "name": "WBC", "region": "Global", "tagline": "the prestigious green and gold belt: elite rankings and world title wagering" },
+  { "id": "wba", "name": "WBA", "region": "Global", "tagline": "the world's oldest sanctioning body featuring super, regular, and interim titles" },
+  { "id": "ibf", "name": "IBF", "region": "Global", "tagline": "strict mandatory defenses and performance-based rankings for professional boxing" },
+  { "id": "wbo", "name": "WBO", "region": "Global", "tagline": "rapidly growing global recognition and high-stakes championship match odds" },
+
+  /* 🏢 MAJOR PROMOTIONAL POWERHOUSES (THE EVENT ORGANIZERS) */
+  { "id": "matchroom-boxing", "name": "Matchroom Boxing", "country": "UK/Global", "tagline": "the global leader in high-production fight nights and heavyweight spectacles" },
+  { "id": "queensberry-promotions", "name": "Queensberry Promotions", "country": "UK", "tagline": "frank warren's elite stable featuring world champions and rising stars" },
+  { "id": "top-rank-boxing", "name": "Top Rank", "country": "USA/Global", "tagline": "the historic home of boxing legends and the deepest prospect pipeline in the US" },
+  { "id": "pbc", "name": "Premier Boxing Champions (PBC)", "country": "USA", "tagline": "the biggest stars in american boxing competing on the grandest stages" },
+  { "id": "golden-boy", "name": "Golden Boy Promotions", "country": "USA/Mexico", "tagline": "oscar de la hoya's premier stable of explosive latino and global talent" },
+  { "id": "riyadh-season", "name": "Riyadh Season Boxing", "country": "Saudi Arabia", "tagline": "the new capital of boxing: hosting the world's biggest undisputed title fights" },
+
+  /* 🥊 WEIGHT CLASS FOCUS (FOR SEO FILTERING) */
+  { "id": "heavyweight-boxing", "name": "Heavyweight Division", "tier": "weight-class", "tagline": "the kings of boxing: wagering on the world's most powerful knockout artists" },
+  { "id": "pound-for-pound", "name": "P4P Elite", "tier": "weight-class", "tagline": "betting on the world's most skilled fighters regardless of weight" },
+
+  /* 🥇 OLYMPIC & AMATEUR SERIES (HIGH FREQUENCY) */
+  { "id": "world-boxing-cup", "name": "World Boxing Cup", "region": "International", "tagline": "the elite olympic-style boxing series with multi-stage global events" },
+  { "id": "iba-pro-series", "name": "IBA Pro Series", "region": "International", "tagline": "professionalized amateur boxing duels with significant crypto prize pools" },
+  
+  /* 🥊 CROSSOVER & INFLUENCER BOXING */
+  { "id": "misfits-boxing", "name": "Misfits Boxing (X Series)", "region": "Global", "tagline": "the home of crossover boxing: high-engagement celebrity and influencer match odds" }
+]

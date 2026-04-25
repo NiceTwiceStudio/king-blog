@@ -1,0 +1,25 @@
+[
+  /* 🏆 THE GLOBAL PINNACLE (S-TIER) */
+  { "id": "hok-world-cup-2026", "name": "Honor of Kings World Cup (KWC 2026)", "location": "Riyadh, Saudi Arabia", "date": "July 2026", "prize": "$3,000,000", "tagline": "The grand mid-season major: top clubs from the KPL and global leagues unite in Riyadh" },
+  { "id": "hok-international-championship-2026", "name": "Honor of Kings International Championship (KIC)", "region": "Global", "date": "Nov-Dec 2026", "tagline": "The ultimate season finale: crowning the 2026 world champion in the biggest mobile MOBA event" },
+  { "id": "esports-nations-cup-2026-hok", "name": "Esports Nations Cup (ENC)", "location": "Riyadh, Saudi Arabia", "date": "Nov 24-29, 2026", "tagline": "National pride: country-based competition featuring the world's best HoK specialists" },
+
+  /* 💎 TIER 1 - MAJOR REGIONAL LEAGUES (MPL/PKL/IKL) */
+  { "id": "kpl-spring-2026", "name": "King Pro League (KPL) Spring", "country": "China", "tagline": "The gold standard of HoK: recap the high-intensity Chinese pro split dominated by AG Super Play" },
+  { "id": "pkl-spring-2026", "name": "Philippines Kings League (PKL) Spring", "country": "Philippines", "tagline": "Recap the 2026 finale: Team Flash's dominant run through the Manila playoffs" },
+  { "id": "ikl-spring-2026", "name": "Indonesia Kings Laga (IKL) Spring", "country": "Indonesia", "tagline": "High-octane technical play from the heart of Jakarta: where Bigetron by Vitality rules" },
+  { "id": "mkl-spring-2026", "name": "Malaysia Kings League (MKL) Spring", "country": "Malaysia", "tagline": "The explosive Malaysian circuit: home of the 2026 title contenders All Gamers Global" },
+  { "id": "chokbr-fall-2026", "name": "HoK Brazil Championship (CHOKBR)", "country": "Brazil", "tagline": "The premier Latin American circuit: recap the high-aggression Fall 2026 season" },
+
+  /* 🥈 TIER 2 - CHALLENGER & QUALIFIER SERIES */
+  { "id": "hok-invitational-s4", "name": "HoK Invitational Season 4", "region": "Global", "tagline": "The elite invitational bridge for global teams seeking a spot in the World Cup" },
+  { "id": "kgl-spring-2026", "name": "King Growth League (KGL)", "country": "China", "tagline": "The secondary Chinese pro league: the vital pipeline for future KPL superstars" },
+  { "id": "apl-wildcard-2026", "name": "APL Wildcard", "region": "Asia-Pacific", "tagline": "The combined wildcard path for Honor of Kings and Arena of Valor champions" },
+
+  /* 🥉 TIER 3 - AMATEUR & COMMUNITY */
+  { "id": "hometown-cup-2026", "name": "Hometown Cup", "region": "Global", "tagline": "Grassroots community tournaments celebrating the global launch of Honor of Kings" },
+  { "id": "hok-campus-qualifier", "name": "Challenger Cup: Campus Qualifier", "region": "Global", "tagline": "The premier collegiate path for aspiring professional HoK players" },
+
+  /* 🚺 WOMEN'S SERIES */
+  { "id": "hok-womens-series-s3", "name": "Female Honor of Kings Series 3", "region": "Global", "tagline": "Showcasing the world's best women's HoK teams in elite competitive formats" }
+]

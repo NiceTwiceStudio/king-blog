@@ -1,0 +1,21 @@
+[
+  /* 🏆 THE PROFESSIONAL PINNACLE (S-TIER) */
+  { "id": "nba2k-league-5v5", "name": "NBA 2K League: 5v5 Season", "region": "North America", "tagline": "The official pro league: 25 teams battling for the 2026 Championship and a $1M+ prize pool" },
+  { "id": "nba2k-league-3v3", "name": "NBA 2K League: 3v3 Series", "region": "North America", "tagline": "Fast-paced street-style esports: featuring the SLAM and SWITCH tournaments" },
+  { "id": "nba2k-world-championship", "name": "NBA 2K World Championship", "region": "Global", "tagline": "The ultimate individual showdown: crowning the best 1v1 and 5v5 players on the planet" },
+
+  /* 💎 MAJOR TOURNAMENTS & SERIES */
+  { "id": "the-ticket-2026", "name": "THE TICKET", "region": "North America", "tagline": "The high-stakes knockout tournament where the winner secures a guaranteed playoff spot" },
+  { "id": "the-turn-2026", "name": "THE TURN", "region": "North America", "tagline": "The mid-season tournament showcase: featuring the 2026 innovative experimental rulesets" },
+  { "id": "the-banner-chain", "name": "THE BANNER CHAIN", "region": "North America", "tagline": "Wagering on the 'triple crown' of 2K League tournament play" },
+
+  /* 🥈 TIER 2 - CHALLENGERS & INTERNATIONAL */
+  { "id": "nba2k-apac-invitational", "name": "NBA 2K APAC Invitational", "region": "Asia-Pacific", "tagline": "The premier scouting event for Asian talent: featuring the rising stars from Korea and Japan" },
+  { "id": "european-invitational-2k", "name": "NBA 2K European Invitational", "region": "Europe", "tagline": "The gateway to the draft for EMEA players: high-intensity technical match wagering" },
+  { "id": "nba2k-league-checkup", "name": "NBA 2K League Checkpoint", "tier": "2", "tagline": "The official amateur-to-pro qualifier series for the 2026 draft pool" },
+
+  /* 🥉 TIER 3 - COMMUNITY & PRO-AM */
+  { "id": "wr-pro-am-league", "name": "WR Pro-Am League", "region": "Global", "tagline": "The most prestigious community-run league: high-volume wagering on the 2K elite" },
+  { "id": "mpba-2k", "name": "MPBA (Master Pro-Am Basketball Association)", "region": "North America", "tagline": "Gritty, high-stakes community league action featuring the best non-contracted players" },
+  { "id": "2k-clutch-challenge", "name": "NBA 2K Clutch Challenge", "region": "Global", "tagline": "Fast-paced grassroots tournaments with high-frequency daily match odds" }
+]

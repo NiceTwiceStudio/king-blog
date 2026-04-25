@@ -1,0 +1,23 @@
+[
+  /* 🏆 THE PINNACLE - OLYMPICS & WORLD CHAMPIONSHIPS */
+  { "id": "milano-cortina-2026-biathlon", "name": "Milano Cortina 2026 Winter Olympics", "region": "Italy", "tagline": "recap the historic 2026 olympic biathlon drama from Antholz-Anterselva" },
+  { "id": "ibu-world-championships", "name": "IBU World Championships", "region": "Global", "tagline": "the premier annual biathlon event: crowning world champions across all disciplines" },
+  { "id": "paralympic-biathlon-2026", "name": "Milano Cortina 2026 Paralympics", "region": "Italy", "tagline": "high-stakes para biathlon wagering from the 2026 winter paralympic games" },
+
+  /* ❄️ BMW IBU WORLD CUP (THE ELITE CIRCUIT) */
+  { "id": "ibu-world-cup-ostersund", "name": "IBU World Cup Östersund", "country": "Sweden", "tagline": "the traditional winter season opener: elite biathlon betting in the swedish cold" },
+  { "id": "ibu-world-cup-hochfilzen", "name": "IBU World Cup Hochfilzen", "country": "Austria", "tagline": "high-volume wagering on the fast and technical austrian biathlon circuit" },
+  { "id": "ibu-world-cup-annecy", "name": "IBU World Cup Annecy-Le Grand Bornand", "country": "France", "tagline": "france's premier biathlon event: massive crowds and intense match odds" },
+  { "id": "ibu-world-cup-oberhof", "name": "IBU World Cup Oberhof", "country": "Germany", "tagline": "the heart of german biathlon: betting on the misty and challenging Thuringian forest" },
+  { "id": "ibu-world-cup-ruhpolding", "name": "IBU World Cup Ruhpolding", "country": "Germany", "tagline": "the 'Wimbledon of Biathlon': elite wagering from the Chiemgau Arena" },
+  { "id": "ibu-world-cup-antholz", "name": "IBU World Cup Antholz-Anterselva", "country": "Italy", "tagline": "high-altitude biathlon drama in the italian alps: the world's most scenic venue" },
+  { "id": "ibu-world-cup-oslo", "name": "IBU World Cup Oslo Holmenkollen", "country": "Norway", "tagline": "the season finale: crowning the Crystal Globe winners at the home of skiing" },
+
+  /* 🥈 IBU CUP (THE SECOND TIER / FEEDER) */
+  { "id": "ibu-cup-series", "name": "IBU Cup", "region": "Europe/Global", "tagline": "scout the stars of tomorrow: high-value betting on the IBU second-tier circuit" },
+  { "id": "ibu-junior-world-championships", "name": "IBU Junior World Championships", "region": "Global", "tagline": "the premier developmental event for the world's best young biathletes" },
+
+  /* 🥇 REGIONAL & OPEN CHAMPIONSHIPS */
+  { "id": "ibu-european-championships", "name": "IBU Open European Championships", "region": "Europe", "tagline": "continental supremacy: elite european biathlon wagering and medal battles" },
+  { "id": "ibu-summer-biathlon-worlds", "name": "IBU Summer Biathlon World Championships", "region": "Global", "tagline": "off-season betting: elite roller-ski biathlon action in the summer months" }
+]

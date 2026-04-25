@@ -1,0 +1,21 @@
+[
+  /* 🏆 THE PINNACLE - WORLD CHAMPIONSHIPS */
+  { "id": "rlcs-world-championship-2026", "name": "RLCS World Championship 2026", "region": "Global", "date": "Sept 15-20, 2026", "tagline": "The 20-team expanded grand finale: the ultimate 6-day battle for rocket league immortality" },
+  { "id": "rl-1v1-world-championship", "name": "Rocket League 1v1 World Championship", "region": "Global", "date": "Sept 2026", "tagline": "The elite individual showcase: crowning the world's best mechanical specialist" },
+  { "id": "rl-2v2-world-championship", "name": "Rocket League 2v2 World Championship", "region": "Global", "date": "Sept 2026", "tagline": "2026 Debut: the premier doubles championship featuring the top duos from NA, EU, SAM, and MENA" },
+
+  /* 💎 RLCS MAJORS (TIER 1 LANs) */
+  { "id": "rlcs-paris-major-2026", "name": "RLCS Major 2: Paris", "location": "Paris, France", "date": "May 20-24, 2026", "tagline": "Live in May: 16 teams descend on the Paris La Défense Arena for the year's largest indoor LAN" },
+  { "id": "rlcs-boston-major-2026", "name": "RLCS Major 1: Boston", "location": "Boston, USA", "date": "Feb 19-22, 2026", "tagline": "Recap the Spring Major: where Gentle Mates secured a historic victory in North America" },
+
+  /* 🌍 THE ONLINE OPENS (CURRENT ACTION) */
+  { "id": "rlcs-open-6-eu", "name": "RLCS Open 6: Europe", "status": "LIVE", "date": "Apr 24-26, 2026", "tagline": "Live Now: the final European battle for Paris Major qualification points" },
+  { "id": "rlcs-open-6-na", "name": "RLCS Open 6: North America", "status": "Finished", "date": "Apr 17-19, 2026", "tagline": "Recap the NA finale: confirming the top seeds heading to France" },
+  { "id": "rlcs-open-6-mena", "name": "RLCS Open 6: MENA", "status": "Finished", "date": "Apr 16-18, 2026", "tagline": "The desert kings: crowning the final MENA regional point leaders" },
+
+  /* 🇸🇦 SPECIAL EVENTS */
+  { "id": "esports-world-cup-2026-rl", "name": "Esports World Cup 2026", "location": "Riyadh, Saudi Arabia", "date": "Aug 12-16, 2026", "tagline": "The massive mid-summer invitational: high-stakes wagering on a $2M+ global prize pool" },
+
+  /* 🥈 TIER 2 & LAST CHANCE */
+  { "id": "rlcs-lcq-2026", "name": "Regional Last Chance Qualifiers (LCQ)", "region": "Global", "date": "July-Aug 2026", "tagline": "The final lifeline: four slots remaining for the World Championship via the top 4 regions" }
+]

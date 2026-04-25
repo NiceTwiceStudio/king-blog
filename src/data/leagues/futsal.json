@@ -1,0 +1,30 @@
+[
+  /* 🏆 INTERNATIONAL CLUB COMPETITIONS */
+  { "id": "uefa-futsal-champions-league", "name": "UEFA Futsal Champions League", "region": "Europe", "tagline": "the world's premier club futsal competition featuring the elite of the LNFS and Liga Placard" },
+  { "id": "copa-libertadores-futsal", "name": "Copa Libertadores de Futsal", "region": "South America", "tagline": "intense south american club futsal wagering featuring brazilian and argentinian giants" },
+  { "id": "afc-futsal-club-championship", "name": "AFC Futsal Club Championship", "region": "Asia", "tagline": "the highest tier of professional club futsal across the asian continent" },
+
+  /* 🇪🇸 SPAIN - THE BEST DOMESTIC LEAGUE */
+  { "id": "lnfs-spain", "name": "LNFS Primera División", "country": "Spain", "tagline": "widely considered the world's best futsal league with elite technical play and odds" },
+  { "id": "copa-de-espana-futsal", "name": "Copa de España", "country": "Spain", "tagline": "the prestigious eight-team knockout tournament: the crown jewel of spanish futsal" },
+
+  /* 🇵🇹 PORTUGAL / 🇧🇷 BRAZIL / 🇦🇷 ARGENTINA */
+  { "id": "liga-placard", "name": "Liga Placard", "country": "Portugal", "tagline": "the home of the defending european club champions: elite portuguese futsal betting" },
+  { "id": "liga-nacional-futsal", "name": "Liga Nacional de Futsal (LNF)", "country": "Brazil", "tagline": "brazil's premier professional futsal league with high-frequency goal action" },
+  { "id": "primera-division-futsal-argentina", "name": "Primera División", "country": "Argentina", "tagline": "top-flight argentinian futsal wagering from the current world cup runners-up" },
+
+  /* 🇮🇹 ITALY / 🇷🇺 RUSSIA / 🇰🇿 KAZAKHSTAN */
+  { "id": "serie-a-futsal", "name": "Serie A Futsal", "country": "Italy", "tagline": "professional italian domestic futsal match wagering and championship odds" },
+  { "id": "russian-futsal-super-league", "name": "Super League", "country": "Russia", "tagline": "high-physicality russian futsal betting featuring elite international talent" },
+  { "id": "kazakhstan-futsal-championship", "name": "Kazakhstan Futsal Championship", "country": "Kazakhstan", "tagline": "bet on the dominant Kairat Almaty and the rising kazakh domestic circuit" },
+
+  /* 🌏 ASIA & 🌍 MIDDLE EAST */
+  { "id": "f-league-japan", "name": "F.League", "country": "Japan", "tagline": "asia's most organized professional futsal league with technical match odds" },
+  { "id": "thai-futsal-league", "name": "Futsal Thailand League", "country": "Thailand", "tagline": "high-octane southeast asian futsal betting from a global powerhouse nation" },
+  { "id": "iran-futsal-super-league", "name": "Iranian Futsal Super League", "country": "Iran", "tagline": "passionate domestic wagering from asia's highest-ranked futsal nation" },
+
+  /* 🏆 INTERNATIONAL COUNTRY TOURNAMENTS */
+  { "id": "fifa-futsal-world-cup", "name": "FIFA Futsal World Cup", "tier": "international", "tagline": "the ultimate global showdown: 48 teams battling for the world title in 2026" },
+  { "id": "uefa-futsal-euro", "name": "UEFA Futsal EURO", "tier": "international", "tagline": "europe's elite international championship: fresh from the 2026 Spain triumph" },
+  { "id": "copa-america-futsal", "name": "Copa América de Futsal", "tier": "international", "tagline": "the fierce rivalry of south american national teams for continental gold" }
+]

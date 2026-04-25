@@ -1,0 +1,19 @@
+[
+  /* 🏇 HORSE RACING: THE FLAT MAJORS (THOROUGHBRED) */
+  { "id": "triple-crown-usa-2026", "name": "The American Triple Crown", "region": "USA", "tagline": "The pursuit of immortality: Kentucky Derby (May 2), Preakness (May 16), and Belmont (June 6)" },
+  { "id": "royal-ascot-2026", "name": "Royal Ascot", "country": "UK", "date": "June 16-20, 2026", "tagline": "The pinnacle of British flat racing: five days of elite Group 1 wagering and fashion" },
+  { "id": "prix-de-larc-de-triomphe", "name": "Qatar Prix de l'Arc de Triomphe", "country": "France", "date": "Oct 4, 2026", "tagline": "Europe's most prestigious race: the world's best middle-distance horses at Longchamp" },
+  { "id": "melbourne-cup-carnival", "name": "Melbourne Cup Carnival", "country": "Australia", "date": "Oct 31 - Nov 7, 2026", "tagline": "The race that stops a nation: Australia's premier staying handicap on Nov 3" },
+  { "id": "breeders-cup-2026", "name": "Breeders' Cup World Championships", "location": "Keeneland, USA", "date": "Oct 30-31, 2026", "tagline": "The year-end global showdown: 14 championship races to decide the world's best" },
+
+  /* 🐕 THE HOUNDS: GREYHOUND DERBIES */
+  { "id": "english-greyhound-derby-2026", "name": "Star Sports English Greyhound Derby", "location": "Towcester, UK", "date": "May 1 - June 6, 2026", "tagline": "The most prestigious prize in greyhound racing: starting Friday, May 1 at Towcester" },
+  { "id": "irish-greyhound-derby", "name": "Irish Greyhound Derby", "location": "Shelbourne Park, IE", "tagline": "The summit of Irish racing: high-speed pursuit and elite bracket wagering" },
+  { "id": "million-dollar-chase", "name": "The Million Dollar Chase", "country": "Australia", "tagline": "The world's richest greyhound race: high-stakes wagering from Sydney's Wentworth Park" },
+
+  /* 🚜 HARNESS RACING: THE SULKY CLASSICS */
+  { "id": "hambletonian-2026", "name": "The Hambletonian", "location": "Meadowlands, USA", "date": "Aug 8, 2026", "tagline": "The Kentucky Derby of harness racing: the premier classic for 3-year-old trotters" },
+  { "id": "prix-damérique", "name": "Prix d'Amérique Legend Race", "country": "France", "tagline": "The world's greatest trotting event: the winter peak of the Vincennes circuit" },
+  { "id": "inter-dominion", "name": "Inter Dominion Championship", "region": "Australia/NZ", "tagline": "The ultimate test of stamina: the southern hemisphere's premier harness series" },
+  { "id": "little-brown-jug", "name": "The Little Brown Jug", "location": "Delaware, OH", "date": "Sept 2026", "tagline": "The second leg of the Pacing Triple Crown: iconic 3-year-old pacing drama" }
+]

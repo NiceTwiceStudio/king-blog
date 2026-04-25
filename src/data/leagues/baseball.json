@@ -1,0 +1,37 @@
+[
+  { "id": "mlb", "name": "Major League Baseball", "country": "USA/Canada", "tagline": "the world's premier baseball league with elite crypto betting markets" },
+  { "id": "triple-a", "name": "Triple-A MiLB", "country": "USA", "tagline": "high-level professional baseball wagering on the top MLB affiliates" },
+  { "id": "double-a", "name": "Double-A MiLB", "country": "USA", "tagline": "scout the stars of tomorrow with professional double-A baseball odds" },
+  { "id": "high-a", "name": "High-A MiLB", "country": "USA", "tagline": "intense minor league baseball betting on the high-A circuit" },
+  { "id": "low-a", "name": "Low-A MiLB", "country": "USA", "tagline": "grassroots professional baseball wagering on the low-A single-A tier" },
+
+  { "id": "atlantic-league", "name": "Atlantic League", "country": "USA", "tagline": "the premier independent professional partner league of the MLB" },
+  { "id": "american-association", "name": "American Association", "country": "USA/Canada", "tagline": "high-quality independent baseball betting across the midwest" },
+  { "id": "frontier-league", "name": "Frontier League", "country": "USA/Canada", "tagline": "the longest-running independent league now transitioning to the NAPB" },
+  { "id": "pioneer-league", "name": "Pioneer League", "country": "USA", "tagline": "high-altitude independent baseball action from the rocky mountain region" },
+
+  { "id": "lmb", "name": "Liga Mexicana de Béisbol", "country": "Mexico", "tagline": "the premier summer professional baseball league in Mexico" },
+  { "id": "lmp", "name": "Liga ARCO Mexicana del Pacífico", "country": "Mexico", "tagline": "intense winter league mexican baseball wagering and match odds" },
+  { "id": "lidom", "name": "LIDOM", "country": "Dominican Republic", "tagline": "the heart of dominican baseball with elite winter league markets" },
+  { "id": "lbprc", "name": "Liga Roberto Clemente", "country": "Puerto Rico", "tagline": "puerto rico's historic professional winter baseball league" },
+  { "id": "lvbp", "name": "Liga Venezolana de Béisbol", "country": "Venezuela", "tagline": "passionate venezuelan professional baseball betting action" },
+  { "id": "cuban-national-series", "name": "Cuban National Series", "country": "Cuba", "tagline": "historic and high-talent domestic cuban baseball wagering" },
+
+  { "id": "npb", "name": "Nippon Professional Baseball", "country": "Japan", "tagline": "the highest level of professional baseball in Japan" },
+  { "id": "kbo", "name": "KBO League", "country": "South Korea", "tagline": "high-octane south korean baseball wagering with massive fan engagement" },
+  { "id": "cpbl", "name": "Chinese Professional Baseball League", "country": "Taiwan", "tagline": "taiwan's premier professional baseball league match betting" },
+  { "id": "abl", "name": "Australian Baseball League", "country": "Australia", "tagline": "top-flight australian baseball odds during the winter swing" },
+
+  { "id": "honkbal-hoofdklasse", "name": "Honkbal Hoofdklasse", "country": "Netherlands", "tagline": "the elite tier of professional baseball in the Netherlands" },
+  { "id": "serie-a-baseball", "name": "Serie A Baseball", "country": "Italy", "tagline": "italy's premier professional baseball competition" },
+  { "id": "bundesliga-baseball", "name": "Baseball Bundesliga", "country": "Germany", "tagline": "the top flight of professional baseball in Germany" },
+  { "id": "czech-extraliga-baseball", "name": "Czech Extraliga Baseball", "country": "Czechia", "tagline": "high-quality professional baseball betting from Czechia" },
+  { "id": "division-honor-baseball", "name": "División de Honor", "country": "Spain", "tagline": "spain's highest level of professional baseball wagering" },
+  { "id": "elitserien-baseball", "name": "Swedish Elitserien", "country": "Sweden", "tagline": "the top division of swedish domestic baseball betting" },
+  { "id": "national-baseball-league-uk", "name": "National Baseball League", "country": "UK", "tagline": "the premier baseball competition in the United Kingdom" },
+
+  { "id": "world-baseball-classic", "name": "World Baseball Classic", "country": "International", "tagline": "the pinnacle of international baseball featuring the world's best stars" },
+  { "id": "wbsc-premier12", "name": "WBSC Premier12", "country": "International", "tagline": "top-12 global baseball nations competing for world supremacy" },
+  { "id": "bcl-europe", "name": "BCL Europe", "country": "Europe", "tagline": "the newly launched baseball champions league for elite european clubs" },
+  { "id": "european-champions-cup", "name": "European Champions Cup", "country": "Europe", "tagline": "historic european club baseball competition and championship wagers" }
+]

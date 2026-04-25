@@ -1,0 +1,34 @@
+[
+  /* 🏆 PREMIER PADEL - THE MAJORS (THE GRAND SLAMS) */
+  { "id": "qatar-major", "name": "Qatar Major", "tier": "major", "tagline": "the elite season-opening major in Doha with the highest ranking points" },
+  { "id": "italy-major", "name": "Italy Major", "tier": "major", "tagline": "historic padel wagering from the iconic Foro Italico in Rome" },
+  { "id": "paris-major", "name": "Paris Major", "tier": "major", "tagline": "bet on padel at the legendary Stade Roland-Garros" },
+  { "id": "mexico-major", "name": "Mexico Major", "tier": "major", "tagline": "the high-stakes latin american finale in Acapulco" },
+  { "id": "premier-padel-finals", "name": "Barcelona Master Finals", "tier": "finals", "tagline": "the season-ending showdown in Barcelona for the top 16 players" },
+
+  /* ⭐ PREMIER PADEL P1 (ELITE TIER) */
+  { "id": "riyadh-p1", "name": "Riyadh P1", "tier": "p1", "tagline": "high-prize pool padel betting from the saudi season opener" },
+  { "id": "madrid-p1", "name": "Madrid P1", "tier": "p1", "tagline": "the heart of padel: intense wagering from the world's padel capital" },
+  { "id": "miami-p1", "name": "Miami P1", "tier": "p1", "tagline": "premier north american padel action and match odds" },
+  { "id": "london-p1", "name": "London P1", "tier": "p1", "tagline": "bet on the historic debut of the Premier Padel circuit in the UK" },
+  { "id": "dubai-p1", "name": "Dubai P1", "tier": "p1", "tagline": "elite middle-eastern padel wagering featuring the global top 10" },
+
+  /* 🟢 PREMIER PADEL P2 (PRO TIER) */
+  { "id": "brussels-p2", "name": "Brussels P2", "tier": "p2", "tagline": "competitive european padel wagering from the belgian circuit" },
+  { "id": "newgiza-p2", "name": "Newgiza P2", "tier": "p2", "tagline": "high-octane padel match betting from the egyptian pyramids" },
+  { "id": "rotterdam-p2", "name": "Rotterdam P2", "tier": "p2", "tagline": "the premier professional padel event in the Netherlands" },
+  { "id": "pretoria-p2", "name": "Pretoria P2", "tier": "p2", "tagline": "bet on the inaugural professional padel event in South Africa" },
+
+  /* 🏗️ FIP TOUR (CHALLENGER & FEEDER TIER) */
+  { "id": "fip-platinum", "name": "FIP Platinum", "tier": "fip", "tagline": "the highest tier of the FIP tour: elite points and match wagering" },
+  { "id": "fip-gold", "name": "FIP Gold", "tier": "fip", "tagline": "major regional padel tournaments with high-volume betting markets" },
+  { "id": "fip-star", "name": "FIP Star", "tier": "fip", "tagline": "global padel circuit events for rising professional stars" },
+
+  /* 🇪🇸 SPAIN & 🇦🇷 ARGENTINA (REGIONAL POWERHOUSES) */
+  { "id": "hexagon-cup", "name": "Hexagon Cup", "tier": "exhibition", "tagline": "the star-studded team-based franchise event in Madrid" },
+  { "id": "liga-nacional-argentina", "name": "AJPP Argentina", "country": "Argentina", "tagline": "the legendary argentinian professional circuit match betting" },
+  
+  /* 🌍 INTERNATIONAL TEAM EVENTS */
+  { "id": "fip-world-cup", "name": "FIP World Padel Championship", "tier": "international", "tagline": "the world cup of padel: nation vs nation for global glory" },
+  { "id": "mediterranean-games-padel", "name": "Mediterranean Games", "tier": "international", "tagline": "multisport event padel wagering from the mediterranean circuit" }
+]

@@ -1,0 +1,25 @@
+[
+  /* 🏆 INTERNATIONAL CLUB PINNACLE */
+  { "id": "len-champions-league", "name": "European Aquatics Champions League", "region": "Europe", "tagline": "the world's premier club water polo competition; Final Four in Malta, June 2026" },
+  { "id": "len-euro-cup", "name": "LEN Euro Cup", "region": "Europe", "tagline": "elite second-tier continental club competition with high-stakes knockout drama" },
+  { "id": "len-challenger-cup", "name": "LEN Challenger Cup", "region": "Europe", "tagline": "the emerging professional circuit for rising european water polo clubs" },
+
+  /* 🇮🇹 ITALY / 🇭🇺 HUNGARY / 🇷🇸 SERBIA (THE "BIG THREE" LEAGUES) */
+  { "id": "serie-a1-italy-wp", "name": "Serie A1", "country": "Italy", "tagline": "home of the 'Settebello': arguably the most professional domestic league in the world" },
+  { "id": "ob-i-hungary", "name": "OB I", "country": "Hungary", "tagline": "hungary's elite division: historic powerhouse clubs and deep technical match odds" },
+  { "id": "serbian-super-liga-wp", "name": "Super Liga", "country": "Serbia", "tagline": "the heart of the world champions: physical and high-intensity domestic wagering" },
+
+  /* 🇪🇸 SPAIN / 🇭🇷 CROATIA / 🇬🇷 GREECE */
+  { "id": "division-honor-spain-wp", "name": "División de Honor", "country": "Spain", "tagline": "spain's premier water polo circuit: home to the reigning world cup holders" },
+  { "id": "croatian-first-league-wp", "name": "Prva Liga", "country": "Croatia", "tagline": "fierce adriatic rivalries and elite club betting from the croatian top flight" },
+  { "id": "a1-ethniki-greece-wp", "name": "A1 Ethniki", "country": "Greece", "tagline": "greek domestic water polo action: high-volume wagering on Olympiacos and NC Vouliagmeni" },
+
+  /* 🇺🇸 USA - THE EXPANDING FRONTIER */
+  { "id": "usa-national-league-wp", "name": "USA Water Polo National League", "country": "USA", "tagline": "the newly expanded three-conference pro-am system in Northern and Southern California" },
+  { "id": "ncaa-water-polo", "name": "NCAA Water Polo", "country": "USA", "tagline": "elite collegiate competition: the primary feeder for the Team USA olympic rosters" },
+
+  /* 🏆 INTERNATIONAL NATIONAL TEAM EVENTS */
+  { "id": "world-aquatics-world-cup", "name": "World Aquatics World Cup", "region": "Global", "tagline": "the 2026 global tour culminating in the Sydney Super Final this July" },
+  { "id": "european-water-polo-championship", "name": "European Championship", "region": "Europe", "tagline": "continental supremacy: nation vs nation battle for the biannual european crown" },
+  { "id": "fina-world-championships-wp", "name": "World Aquatics Championships", "region": "Global", "tagline": "the pinnacle of international water polo: the world's top nations chasing gold" }
+]

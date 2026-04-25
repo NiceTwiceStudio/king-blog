@@ -1,0 +1,21 @@
+[
+  /* 🏆 THE GLOBAL PINNACLE (S-TIER) */
+  { "id": "fc-pro-world-championship-2026", "name": "FC Pro World Championship 2026", "location": "Riyadh, Saudi Arabia", "date": "July 21-26, 2026", "prize": "$1,500,000", "tagline": "The grand finale of the FC Pro circuit: 36 elite players battle for world supremacy at the Esports World Cup" },
+  { "id": "fc-pro-playins-2026", "name": "FC Pro 26 Play-ins", "location": "Global", "date": "July 11, 2026", "tagline": "The final high-stakes qualifier: 10 slots remaining for the World Championship in Riyadh" },
+  { "id": "echampions-league-2026", "name": "eChampions League 2026", "location": "Europe", "date": "May 15-27, 2026", "tagline": "Europe's premier club competition: crowning the continent's digital champion in London" },
+
+  /* 💎 TIER 1 - DOMESTIC PROFESSIONAL LEAGUES */
+  { "id": "eserie-a-goleador-2026", "name": "eSerie A Goleador", "country": "Italy", "date": "Apr 29 - May 1, 2026", "tagline": "Live soon: Italy's elite battle for FC Pro World Championship qualification" },
+  { "id": "conmebol-elibertadores-2026", "name": "CONMEBOL eLibertadores", "region": "South America", "date": "May 1-3, 2026", "tagline": "South America's biggest prize: high-stakes wagering on the road to the Grand Finals" },
+  { "id": "vbl-grand-finals-2026", "name": "Virtual Bundesliga (VBL) Grand Finals", "country": "Germany", "tagline": "The gold standard of domestic leagues: where Germany's best secure their EWC slots" },
+  { "id": "epremier-league-2026", "name": "ePremier League", "country": "UK", "tagline": "Recap the 2026 finale: where the UK's top pro players dominated the virtual pitch" },
+
+  /* 🥈 TIER 2 - CHALLENGERS & OPEN CUPS */
+  { "id": "fc-pro-26-open", "name": "FC Pro 26 Open", "region": "Global", "tagline": "The massive open-entry circuit: the primary pathway for non-signed legends like Vejrgang" },
+  { "id": "fc-26-challengers", "name": "FC 26 Challengers", "region": "Global", "tagline": "The brand-new 2026 second-tier weekend competition for rising professional talent" },
+  { "id": "kpn-edivisie-2026", "name": "KPN eDivisie", "country": "Netherlands", "tagline": "The highly technical Dutch domestic circuit: a massive feeder for European elite talent" },
+
+  /* 🥉 TIER 3 - REGIONAL & COMMUNITY */
+  { "id": "ofc-professional-league-2026", "name": "OFC Professional League", "region": "Oceania", "date": "Jan-May 2026", "tagline": "Live Now: The Oceania circuit series finals featuring Auckland FC and South Melbourne" },
+  { "id": "game-on-world-cup-barrie", "name": "Game On! World Cup Esports Tournament", "location": "Canada", "date": "May-June 2026", "tagline": "The high-profile regional qualifier celebrating the 2026 FIFA World Cup in North America" }
+]

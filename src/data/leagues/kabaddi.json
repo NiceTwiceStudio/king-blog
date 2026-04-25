@@ -1,0 +1,27 @@
+[
+  /* 🇮🇳 INDIA - THE KABADDI EPICENTER */
+  { "id": "pkl-india", "name": "Pro Kabaddi League (PKL)", "country": "India", "tagline": "the world's premier franchise kabaddi league featuring the top global raiders" },
+  { "id": "senior-national-kabaddi", "name": "Senior National Championship", "country": "India", "tagline": "the gold standard of indian domestic kabaddi featuring 30+ state and unit teams" },
+  { "id": "yuva-kabaddi-series", "name": "Yuva Kabaddi Series", "country": "India", "tagline": "the premier developmental kabaddi circuit for future PKL stars" },
+  { "id": "kabaddi-federation-cup", "name": "Kabaddi Federation Cup", "country": "India", "tagline": "elite club-level kabaddi wagering on india's top performing state units" },
+
+  /* 🇵🇰 PAKISTAN & 🇮🇷 IRAN - THE POWERHOUSES */
+  { "id": "pakistan-kabaddi-league", "name": "Pakistan Kabaddi League", "country": "Pakistan", "tagline": "intense T20-style kabaddi wagering from pakistan's professional circuit" },
+  { "id": "inter-departmental-pakistan", "name": "Inter-Departmental Championship", "country": "Pakistan", "tagline": "high-stakes military and police department kabaddi duels from Pakistan" },
+  { "id": "iran-super-league", "name": "Iran Kabaddi Super League", "country": "Iran", "tagline": "tactical defensive kabaddi betting from one of the world's elite nations" },
+
+  /* 🇧🇩 BANGLADESH & 🇳🇵 NEPAL */
+  { "id": "bangladesh-kabaddi-league", "name": "Bangladesh Kabaddi League", "country": "Bangladesh", "tagline": "wagering on the national sport of bangladesh at the highest professional level" },
+  { "id": "nepal-kabaddi-league", "name": "Nepal Kabaddi League", "country": "Nepal", "tagline": "emerging franchise-style kabaddi betting from the nepalese circuit" },
+
+  /* 🌍 GLOBAL & AFRICAN GROWTH */
+  { "id": "kenya-kabaddi-league", "name": "Kenya Kabaddi League", "country": "Kenya", "tagline": "africa's premier kabaddi destination with aggressive raiding styles" },
+  { "id": "uganda-kabaddi-league", "name": "Uganda Kabaddi League", "country": "Uganda", "tagline": "developing professional kabaddi wagering from the east african circuit" },
+  { "id": "uk-kabaddi-league", "name": "UK Kabaddi League", "country": "UK", "tagline": "diaspora-driven professional kabaddi betting in the united kingdom" },
+
+  /* 🏆 INTERNATIONAL GLOBAL EVENTS */
+  { "id": "kabaddi-world-cup", "name": "Kabaddi World Cup", "tier": "international", "tagline": "the ultimate global showdown for national kabaddi supremacy" },
+  { "id": "asian-games-kabaddi", "name": "Asian Games Kabaddi", "tier": "international", "tagline": "one of the most prestigious events in world kabaddi: battle for continental gold" },
+  { "id": "asian-kabaddi-championship", "name": "Asian Kabaddi Championship", "tier": "international", "tagline": "elite continental wagering featuring india, iran, and pakistan" },
+  { "id": "beach-kabaddi-world-cup", "name": "Beach Kabaddi World Cup", "tier": "international", "tagline": "high-octane outdoor kabaddi wagering with specialized beach rules" }
+]

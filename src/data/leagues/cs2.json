@@ -1,0 +1,27 @@
+[
+  /* 🏆 THE MAJORS (VALVE SPONSORED) */
+  { "id": "iem-cologne-major-2026", "name": "IEM Cologne Major 2026", "location": "Cologne, Germany", "date": "June 11-21, 2026", "tagline": "The ultimate pinnacle of CS2: the first Major of 2026 held in the Cathedral of Counter-Strike" },
+  { "id": "pgl-singapore-major-2026", "name": "PGL Singapore Major 2026", "location": "Singapore", "date": "Nov 24 - Dec 13, 2026", "tagline": "The 2026 Winter Major: bringing the world's elite to Southeast Asia for a historic finale" },
+
+  /* 💎 S-TIER $1,000,000+ GLOBAL EVENTS */
+  { "id": "pgl-astana-2026", "name": "PGL Astana 2026", "location": "Astana, Kazakhstan", "prize": "$1,600,000", "tagline": "A massive high-stakes LAN in the heart of Central Asia featuring the world's top 16" },
+  { "id": "iem-atlanta-2026", "name": "IEM Atlanta 2026", "location": "Atlanta, US", "prize": "$1,000,000", "tagline": "Elite North American LAN action as the circuit returns to Georgia" },
+  { "id": "blast-open-porto-2026", "name": "BLAST Open Porto 2026", "location": "Porto, Portugal", "prize": "$1,100,000", "tagline": "The first open-format BLAST circuit event under the new Valve ecosystem rules" },
+  { "id": "esports-world-cup-2026", "name": "Esports World Cup 2026", "location": "Riyadh, Saudi Arabia", "prize": "$2,000,000", "tagline": "The richest prize pool of the year: a massive 32-team global showdown" },
+  { "id": "esl-pro-league-s24", "name": "ESL Pro League Season 24", "location": "Katowice, Poland", "prize": "$1,000,000", "tagline": "The legendary Pro League moves to Katowice for its 2026 season finale" },
+  { "id": "pgl-masters-bucharest", "name": "PGL Masters Bucharest 2026", "location": "Bucharest, Romania", "prize": "$1,250,000", "tagline": "High-intensity Masters level CS2 wagering from the Romanian powerhouse organizer" },
+
+  /* ⭐ A-TIER INTERNATIONAL LANs */
+  { "id": "cs-asia-championships-2026", "name": "CS Asia Championships 2026", "location": "Shanghai, China", "prize": "$1,000,000", "tagline": "The premier Asian LAN: a critical stop for global teams in the Chinese market" },
+  { "id": "fissure-playground-5", "name": "FISSURE Playground 5", "location": "Shenzhen, China", "prize": "$1,000,000", "tagline": "A new heavyweight LAN organizer breaking into the 2026 S-Tier circuit" },
+  { "id": "thunderpick-wc-2026", "name": "Thunderpick World Championship 2026", "location": "Malta", "prize": "$1,000,000", "tagline": "The global finale of the year-long Thunderpick online and LAN circuit" },
+
+  /* 🏛️ B-TIER & REGIONAL CIRCUITS */
+  { "id": "esl-challenger-league-s51", "name": "ESL Challenger League Season 51", "region": "Global", "tagline": "The vital regional pipeline for teams to qualify for the ESL Pro League" },
+  { "id": "bc-game-masters-s2", "name": "BC Game Masters Season 2", "region": "Europe/Intl", "tagline": "A high-frequency professional circuit featuring both online and LAN finales" },
+  { "id": "odyssey-cup-brazil", "name": "Odyssey Cup Brazil 2026", "country": "Brazil", "tagline": "The premier domestic LAN circuit for the explosive Brazilian CS2 scene" },
+
+  /* 🔜 2027 EARLY OUTLOOK */
+  { "id": "blast-bounty-2027", "name": "BLAST Bounty 2027 Season 1", "location": "Malta", "prize": "$1,250,000", "tagline": "The first major event of 2027: high-stakes bounty-style wagering in Malta" },
+  { "id": "pgl-cluj-napoca-2027", "name": "PGL Cluj-Napoca 2027", "location": "Romania", "prize": "$1,000,000", "tagline": "Professional CS2 returns to the legendary Polyvalent Hall in Transylvania" }
+]

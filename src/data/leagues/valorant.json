@@ -1,0 +1,26 @@
+[
+  /* 🏆 TIER 1 - GLOBAL MAJORS (VCT INTERNATIONAL) */
+  { "id": "vct-champions-2026", "name": "VALORANT Champions Shanghai", "location": "Shanghai, China", "date": "Sept 24 - Oct 18, 2026", "tagline": "The ultimate crown: the 2026 season finale where the world's top 16 converge on Shanghai" },
+  { "id": "vct-masters-london", "name": "VCT Masters London", "location": "London, UK", "date": "June 6-21, 2026", "tagline": "The second global major of 2026: twelve elite teams battling in the heart of the United Kingdom" },
+  { "id": "vct-masters-santiago", "name": "VCT Masters Santiago", "location": "Santiago, Chile", "date": "Feb 28 - March 16, 2026", "tagline": "Recap the year's first global clash: where Nongshim RedForce shocked the world in Chile" },
+
+  /* 💎 TIER 1 - INTERNATIONAL LEAGUES (THE FRANCHISE CIRCUIT) */
+  { "id": "vct-americas", "name": "VCT Americas", "region": "Americas", "tagline": "The home of Sentinels and LOUD: elite tactical play featuring the return of ENVY (ex-OpTic)" },
+  { "id": "vct-emea", "name": "VCT EMEA", "region": "Europe/MENA", "tagline": "Europe's premier circuit: home to Fnatic and the high-octane technical mastery of the region" },
+  { "id": "vct-pacific", "name": "VCT Pacific", "region": "Asia-Pacific", "tagline": "The fastest-growing powerhouse league: featuring Gen.G, PRX, and the rising Korean stars" },
+  { "id": "vct-china", "name": "VCT China", "region": "China", "tagline": "The 2026 Champions host region: high-aggression wagering on the deep Chinese talent pool" },
+
+  /* 🥈 TIER 2 - CHALLENGERS LEAGUE (VCL) */
+  { "id": "vcl-north-america", "name": "VCL North America", "country": "USA/Canada", "tagline": "The premier Tier 2 circuit: scouting M80 and Shopify Rebellion for the Stage 2 play-ins" },
+  { "id": "vcl-brazil", "name": "VCL Brazil", "country": "Brazil", "tagline": "The passionate heart of LATAM Tier 2: elite talent fighting for a spot in VCT Americas" },
+  { "id": "vcl-spain-rising", "name": "VCL Spain: Rising", "country": "Spain/Italy/Portugal", "tagline": "One of Europe's most organized VCLs featuring Barca eSports and UCAM" },
+  { "id": "vcl-japan-split", "name": "VCL Japan", "country": "Japan", "tagline": "High-production Tier 2 action from the massive Japanese fan hub" },
+  { "id": "vcl-dach-evolution", "name": "VCL DACH: Evolution", "region": "GER/AUT/SUI", "tagline": "The premier German-speaking challenger circuit featuring FOKUS and Eintracht Frankfurt" },
+
+  /* 🥉 TIER 3 - PREMIER & GRASSROOTS */
+  { "id": "valorant-premier-invite", "name": "Premier Invite Division", "region": "Global", "tagline": "The direct in-game path to professional play: the grassroots heart of Valorant" },
+  { "id": "vct-game-changers", "name": "VCT Game Changers Championship", "region": "Global", "date": "Oct/Nov 2026", "tagline": "The world's premier championship for women and marginalized genders in Valorant" },
+
+  /* 🎟️ SPECIAL & NATIONAL EVENTS */
+  { "id": "esports-nations-cup-valorant", "name": "Esports Nations Cup 2026", "location": "Riyadh, Saudi Arabia", "date": "Nov 2-29, 2026", "tagline": "The first global national-team tournament for Valorant: country vs country pride" }
+]

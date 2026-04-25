@@ -1,0 +1,29 @@
+[
+  /* 🏆 THE MEN'S MAJORS (THE GRAND SLAMS) */
+  { "id": "the-masters", "name": "The Masters", "venue": "Augusta National", "tagline": "the world's most prestigious invitational: crowning the green jacket winner in April" },
+  { "id": "pga-championship", "name": "PGA Championship", "region": "USA", "tagline": "the season's second major: featuring the strongest field in professional golf" },
+  { "id": "us-open-golf", "name": "U.S. Open", "region": "USA", "tagline": "golf's ultimate test of survival: high-stakes wagering on the world's toughest setups" },
+  { "id": "the-open", "name": "The Open Championship", "region": "UK", "tagline": "the world's oldest major: link-style golf betting and the quest for the Claret Jug" },
+
+  /* 🇺🇸 PGA TOUR (THE SIGNATURE SYSTEM) */
+  { "id": "pga-tour", "name": "PGA Tour", "country": "USA", "tagline": "the world's premier golf circuit featuring elite Signature Events and FedExCup points" },
+  { "id": "fedex-cup-playoffs", "name": "FedExCup Playoffs", "country": "USA", "tagline": "the high-stakes season finale: betting on the road to East Lake" },
+  { "id": "the-players-championship", "name": "The Players", "venue": "TPC Sawgrass", "tagline": "the 'Fifth Major' featuring the iconic island green at the 17th" },
+
+  /* 🇸🇦 LIV GOLF (THE FRANCHISE CIRCUIT) */
+  { "id": "liv-golf-league", "name": "LIV Golf", "region": "Global", "tagline": "high-octane 54-hole team and individual golf betting with no-cut formats" },
+  { "id": "liv-golf-mexico", "name": "LIV Golf Mexico City", "venue": "Chapultepec", "tagline": "recap the high-altitude 2026 showdown dominated by Jon Rahm" },
+  { "id": "liv-golf-virginia", "name": "LIV Golf Virginia", "venue": "Trump National DC", "tagline": "upcoming high-stakes wagering on the 2026 US east coast stop" },
+
+  /* 🇪🇺 DP WORLD TOUR (EUROPEAN HUB) */
+  { "id": "dp-world-tour", "name": "DP World Tour", "region": "Global", "tagline": "the international heart of professional golf featuring the Race to Dubai" },
+  { "id": "ryder-cup", "name": "Ryder Cup", "region": "USA vs Europe", "tagline": "the ultimate team rivalry: nation-based betting at its most intense" },
+
+  /* 🌏 ASIAN & OCEANIA TOURS */
+  { "id": "asian-tour", "name": "Asian Tour", "region": "Asia", "tagline": "the world's fastest-growing golf circuit with major investment and global talent" },
+  { "id": "pga-tour-australasia", "name": "PGA Tour of Australasia", "country": "Australia", "tagline": "top-flight professional golf wagering from the australian summer swing" },
+
+  /* 🚺 WOMEN'S GOLF (LPGA) */
+  { "id": "lpga-tour", "name": "LPGA Tour", "country": "USA/Global", "tagline": "the world's best women's professional golf: elite match odds and major events" },
+  { "id": "solheim-cup", "name": "Solheim Cup", "region": "USA vs Europe", "tagline": "the premier international women's team match play competition" }
+]

@@ -1,0 +1,27 @@
+[
+  /* 🏆 THE PINNACLE - WORLD CHAMPIONSHIPS & MAJORS */
+  { "id": "ittf-world-championships-team", "name": "ITTF World Team Championships (London 2026)", "region": "Global", "tagline": "the centenary celebration in London: 128 elite teams battle for global glory" },
+  { "id": "ittf-world-championships-individual", "name": "ITTF World Individual Championships", "region": "Global", "tagline": "the premier individual table tennis event: crowning world singles and doubles champions" },
+  { "id": "ittf-world-cup", "name": "ITTF World Cup", "region": "Global", "tagline": "high-stakes international wagering featuring the world's top-ranked invitationals" },
+
+  /* 💎 WTT SERIES - THE PROFESSIONAL CIRCUIT */
+  { "id": "wtt-grand-smash", "name": "WTT Grand Smash", "tier": "smash", "tagline": "the 'Grand Slams' of table tennis: massive prize pools and elite world tour points" },
+  { "id": "wtt-champions", "name": "WTT Champions", "tier": "champions", "tagline": "top-32 individual showdowns: fast-paced elite professional table tennis betting" },
+  { "id": "wtt-star-contender", "name": "WTT Star Contender", "tier": "star-contender", "tagline": "high-frequency professional wagering on the top-tier WTT circuit" },
+  { "id": "wtt-contender", "name": "WTT Contender", "tier": "contender", "tagline": "the backbone of the pro tour: competitive matches and high-volume odds" },
+  { "id": "wtt-finals", "name": "WTT Finals", "tier": "finals", "tagline": "the season-ending showcase for the world's top 16 singles and top 8 doubles" },
+
+  /* 🏛️ ELITE NATIONAL LEAGUES (THE "BIG THREE") */
+  { "id": "china-super-league-tt", "name": "China Table Tennis Super League", "country": "China", "tagline": "the world's strongest league: wagering on Olympic and World champions" },
+  { "id": "bundesliga-tt-germany", "name": "Table Tennis Bundesliga (TTBL)", "country": "Germany", "tagline": "europe's premier table tennis league: high-stakes professional club action" },
+  { "id": "t-league-japan", "name": "T.League", "country": "Japan", "tagline": "japan's elite professional circuit: high-octane technical play and match wagering" },
+
+  /* 🇪🇺 EUROPEAN & REGIONAL POWERHOUSES */
+  { "id": "ettu-champions-league", "name": "ETTU Champions League", "region": "Europe", "tagline": "the 'Champions League' of club table tennis featuring europe's domestic winners" },
+  { "id": "pro-a-france-tt", "name": "Pro A France", "country": "France", "tagline": "home of the Lebrun brothers: one of the fastest-growing professional leagues in Europe" },
+  { "id": "european-tt-championships", "name": "European Table Tennis Championships", "region": "Europe", "tagline": "continental supremacy: elite national team battles (Ljubljana, Oct 2026)" },
+
+  /* 🌏 ASIAN & OTHER CUPS */
+  { "id": "asian-cup-tt", "name": "ITTF-ATTU Asian Cup", "region": "Asia", "tagline": "the de-facto 'mini world championships' with the world's highest-ranked field" },
+  { "id": "europe-top-16", "name": "Europe Top 16 Cup", "region": "Europe", "tagline": "the prestigious invitational battle for the best individual talent in Europe" }
+]

@@ -1,0 +1,18 @@
+[
+  /* 🏁 THE CROWN JEWEL */
+  { "id": "indy-500", "name": "110th Running of the Indianapolis 500", "venue": "Indianapolis Motor Speedway", "tagline": "The Greatest Spectacle in Racing: immortality awaits on May 24, 2026" },
+
+  /* 🇺🇸 THE NTT INDYCAR SERIES (CORE CIRCUIT) */
+  { "id": "indycar-series", "name": "NTT IndyCar Series", "region": "North America", "tagline": "the world's most versatile racing series: 18 races across ovals, road, and street circuits" },
+  { "id": "gp-long-beach", "name": "Acura Grand Prix of Long Beach", "type": "Street", "tagline": "recap Alex Palou's 2026 masterclass at the most iconic street race in North America" },
+  { "id": "gp-indianapolis-road", "name": "Sonsio Grand Prix", "type": "Road", "tagline": "the month of may opener: elite wagering on the indy road course (May 9, 2026)" },
+  { "id": "detroit-gp", "name": "Chevrolet Detroit Grand Prix", "type": "Street", "tagline": "aggressive street racing through the downtown heart of the Motor City" },
+  { "id": "road-america-indy", "name": "Sonsio Grand Prix at Road America", "type": "Road", "tagline": "high-speed endurance and tactical betting at the 'National Park of Speed'" },
+
+  /* 🌍 INTERNATIONAL & NEW VENUES */
+  { "id": "markham-centre-gp", "name": "Markham Centre Grand Prix", "country": "Canada", "tagline": "2026 debut: the first new international venue since 2010 replaces the Toronto GP" },
+  { "id": "washington-dc-gp", "name": "Washington D.C. Street Race", "country": "USA", "tagline": "the high-profile 2026 addition: open-wheel drama through the streets of the capital" },
+
+  /* 🥈 INDY NXT (THE FEEDER SYSTEM) */
+  { "id": "indy-nxt", "name": "INDY NXT by Firestone", "region": "USA", "tagline": "the premier developmental ladder: scouting the stars of the 2027 Cup grid" }
+]

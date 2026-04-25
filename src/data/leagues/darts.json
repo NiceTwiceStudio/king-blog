@@ -1,0 +1,27 @@
+[
+  /* 🏆 THE PDC MAJORS (TELEVISED "GRAND SLAMS") */
+  { "id": "pdc-world-championship", "name": "PDC World Darts Championship", "tier": "major", "tagline": "the pinnacle of professional darts: high-stakes wagering from the Alexandra Palace" },
+  { "id": "premier-league-darts", "name": "Premier League Darts", "tier": "major", "tagline": "the elite weekly roadshow featuring the world's top 8 players in a league format" },
+  { "id": "world-matchplay", "name": "World Matchplay", "tier": "major", "tagline": "summer's biggest darts major from the iconic Winter Gardens in Blackpool" },
+  { "id": "world-grand-prix", "name": "World Grand Prix", "tier": "major", "tagline": "the unique double-start format: a tactical betting dream from Leicester" },
+  { "id": "grand-slam-of-darts", "name": "Grand Slam of Darts", "tier": "major", "tagline": "the ultimate cross-code battle between PDC and WDF champions" },
+  { "id": "uk-open", "name": "UK Open", "tier": "major", "tagline": "the 'FA Cup of Darts' featuring random draws and open entry for massive upsets" },
+  { "id": "european-championship", "name": "European Championship", "tier": "major", "tagline": "the final showdown for the top performers on the PDC European Tour" },
+
+  /* 🎯 PDC WORLD SERIES & TOUR EVENTS */
+  { "id": "world-series-of-darts", "name": "World Series of Darts", "tier": "tour", "tagline": "global exhibition-style majors bringing the world's best to every continent" },
+  { "id": "pdc-european-tour", "name": "PDC European Tour", "tier": "tour", "tagline": "high-frequency weekend tournaments with elite european match odds" },
+  { "id": "players-championship", "name": "Players Championship", "tier": "floor", "tagline": "the pro tour backbone: high-volume daily darts betting with no crowd interference" },
+
+  /* ⚡ MODUS SUPER SERIES (DAILY CONTENT GOLD) */
+  { "id": "modus-super-series", "name": "Modus Super Series", "tier": "daily", "tagline": "the home of daily professional darts: non-stop match wagering from Monday to Saturday" },
+
+  /* 🌏 EMERGING GLOBAL CIRCUITS */
+  { "id": "pdc-asian-tour", "name": "PDC Asian Tour", "region": "Asia", "tagline": "the rapidly growing asian professional circuit featuring the continent's elite" },
+  { "id": "pdc-nordic-baltic", "name": "PDC Nordic & Baltic", "region": "Europe", "tagline": "bet on the dominant scandinavian and baltic professional darts tour" },
+  { "id": "dpnz-protour", "name": "DPNZ ProTour", "region": "Oceania", "tagline": "top-flight professional darts wagering from the New Zealand circuit" },
+
+  /* 🏆 INTERNATIONAL TEAM EVENTS */
+  { "id": "world-cup-of-darts", "name": "World Cup of Darts", "tier": "international", "tagline": "nation vs nation: the unique doubles format battle for global glory" },
+  { "id": "wdf-world-masters", "name": "Winmau World Masters", "tier": "wdf", "tagline": "the prestigious WDF major and oldest title in world darts" }
+]

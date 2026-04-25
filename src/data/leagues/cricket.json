@@ -1,0 +1,47 @@
+[
+  /* 🇮🇳 INDIA - THE CRICKET SUPERPOWER */
+  { "id": "ipl", "name": "Indian Premier League (IPL)", "tier": "franchise", "country": "India", "tagline": "the world's most lucrative T20 league featuring every global cricket superstar" },
+  { "id": "wpl", "name": "Women’s Premier League (WPL)", "tier": "franchise", "country": "India", "tagline": "the premier destination for professional women's T20 cricket wagering" },
+  { "id": "ranji-trophy", "name": "Ranji Trophy", "tier": "domestic", "country": "India", "tagline": "historic first-class indian cricket betting on the path to the national team" },
+  { "id": "vijay-hazare", "name": "Vijay Hazare Trophy", "tier": "domestic", "country": "India", "tagline": "elite list-A one-day cricket wagering from across the indian states" },
+  { "id": "syed-mushtaq-ali", "name": "Syed Mushtaq Ali Trophy", "tier": "domestic", "country": "India", "tagline": "high-octane domestic T20 cricket odds and match predictions" },
+
+  /* 🇦🇺 AUSTRALIA */
+  { "id": "big-bash", "name": "Big Bash League (BBL)", "tier": "franchise", "country": "Australia", "tagline": "australia's premier T20 franchise league with massive fan engagement" },
+  { "id": "wbbl", "name": "Women's Big Bash League", "tier": "franchise", "country": "Australia", "tagline": "the world-leading women's professional T20 cricket circuit" },
+  { "id": "sheffield-shield", "name": "Sheffield Shield", "tier": "domestic", "country": "Australia", "tagline": "the gold standard of first-class domestic cricket wagering" },
+  { "id": "marsh-one-day", "name": "Marsh One-Day Cup", "tier": "domestic", "country": "Australia", "tagline": "australia's professional list-A domestic cricket competition" },
+
+  /* 🏴 ENGLAND & WALES */
+  { "id": "the-hundred", "name": "The Hundred", "tier": "franchise", "country": "UK", "tagline": "innovative 100-ball cricket betting for fast-paced match action" },
+  { "id": "vitality-blast", "name": "Vitality Blast", "tier": "franchise", "country": "UK", "tagline": "england's historic county T20 competition with deep betting markets" },
+  { "id": "county-championship", "name": "County Championship", "tier": "domestic", "country": "UK", "tagline": "traditional four-day first-class cricket betting from england and wales" },
+  { "id": "one-day-cup-uk", "name": "One-Day Cup", "tier": "domestic", "country": "UK", "tagline": "the premier list-A county cricket competition wagering" },
+
+  /* 🇿🇦 SOUTH AFRICA & 🇵🇰 PAKISTAN */
+  { "id": "sa20", "name": "SA20", "tier": "franchise", "country": "South Africa", "tagline": "south africa's elite T20 league featuring the world's best bowlers" },
+  { "id": "psl", "name": "Pakistan Super League (PSL)", "tier": "franchise", "country": "Pakistan", "tagline": "intense T20 cricket wagering with the most passionate atmosphere in the sport" },
+  { "id": "csa-4-day", "name": "CSA 4-Day Series", "tier": "domestic", "country": "South Africa", "tagline": "first-class south african cricket match odds and results" },
+
+  /* 🇺🇸 USA & 🇦🇪 UAE */
+  { "id": "mlc", "name": "Major League Cricket (MLC)", "tier": "franchise", "country": "USA", "tagline": "the fast-rising professional T20 circuit in North America" },
+  { "id": "ilt20", "name": "International League T20", "tier": "franchise", "country": "UAE", "tagline": "high-prize pool T20 wagering featuring elite international rosters" },
+  { "id": "abu-dhabi-t10", "name": "Abu Dhabi T10", "tier": "franchise", "country": "UAE", "tagline": "the fastest format in cricket with non-stop boundary betting" },
+
+  /* 🇱🇰 SRI LANKA, 🇧🇩 BANGLADESH, 🇳🇿 NEW ZEALAND, 🌴 WEST INDIES */
+  { "id": "lpl", "name": "Lanka Premier League", "tier": "franchise", "country": "Sri Lanka", "tagline": "sri lanka's premier T20 domestic championship wagers" },
+  { "id": "bpl", "name": "Bangladesh Premier League", "tier": "franchise", "country": "Bangladesh", "tagline": "the top-flight T20 professional league in Bangladesh" },
+  { "id": "super-smash", "name": "Super Smash", "tier": "franchise", "country": "New Zealand", "tagline": "new zealand's high-speed T20 professional cricket circuit" },
+  { "id": "cpl", "name": "Caribbean Premier League", "tier": "franchise", "country": "West Indies", "tagline": "the biggest party in sport with elite caribbean T20 odds" },
+
+  /* 🌍 GLOBAL ICC EVENTS */
+  { "id": "icc-world-cup", "name": "ICC Cricket World Cup (ODI)", "tier": "international", "tagline": "the pinnacle of 50-over international cricket betting" },
+  { "id": "icc-t20-world-cup", "name": "ICC T20 World Cup", "tier": "international", "tagline": "global national team T20 battle for supremacy" },
+  { "id": "icc-world-test-championship", "name": "ICC World Test Championship", "tier": "international", "tagline": "the two-year cycle crowning the ultimate world test champions" },
+  { "id": "icc-champions-trophy", "name": "ICC Champions Trophy", "tier": "international", "tagline": "the 'mini world cup' featuring the top 8 nations in the world" },
+
+  /* 🇪🇺 EUROPE & EMERGING */
+  { "id": "topklasse", "name": "Topklasse Cricket", "tier": "domestic", "country": "Netherlands", "tagline": "the premier domestic cricket league in the Netherlands" },
+  { "id": "gt20-canada", "name": "Global T20 Canada", "tier": "franchise", "country": "Canada", "tagline": "professional T20 cricket wagering from the north american circuit" },
+  { "id": "nepal-pm-cup", "name": "Prime Minister Cup", "tier": "domestic", "country": "Nepal", "tagline": "nepal's leading domestic cricket competition and match odds" }
+]

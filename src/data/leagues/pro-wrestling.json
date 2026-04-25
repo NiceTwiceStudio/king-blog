@@ -1,0 +1,22 @@
+[
+  /* 👑 WWE - THE GLOBAL JUGGERNAUT */
+  { "id": "wwe-raw", "name": "WWE Monday Night RAW", "platform": "Netflix", "tagline": "the flagship weekly show: live global betting on the biggest stars in sports entertainment" },
+  { "id": "wwe-smackdown", "name": "WWE SmackDown", "platform": "USA Network", "tagline": "the blue brand's high-octane friday night drama and world title wagering" },
+  { "id": "wwe-backlash-2026", "name": "WWE Backlash: Tampa", "date": "May 9, 2026", "tagline": "the fallout from WrestleMania 42: championship rematches live from Florida" },
+  { "id": "wwe-nxt", "name": "WWE NXT", "platform": "The CW", "tagline": "scouting the future: high-energy wagering on the rising stars of the performance center" },
+
+  /* 🦅 AEW - THE ELITE ALTERNATIVE */
+  { "id": "aew-dynamite", "name": "AEW Dynamite", "platform": "HBO Max", "tagline": "wednesday night's premier alternative: elite-level wrestling and unpredictable match betting" },
+  { "id": "aew-double-or-nothing-2026", "name": "AEW Double or Nothing", "date": "May 24, 2026", "tagline": "the vegas-born tradition heads to NYC: high-stakes wagering at Louis Armstrong Stadium" },
+  { "id": "aew-collision", "name": "AEW Collision", "platform": "TNT", "tagline": "saturday night's heavy-hitters: gritty matches and technical wrestling markets" },
+
+  /* 🇯🇵 JAPANESE POWERHOUSES */
+  { "id": "njpw-strong", "name": "New Japan Pro-Wrestling (NJPW)", "region": "Japan/Global", "tagline": "the king of sports: elite strong-style wagering and the road to Wrestle Kingdom" },
+  { "id": "stardom-wrestling", "name": "World Wonder Ring Stardom", "region": "Japan", "tagline": "the premier women's wrestling circuit: technical excellence and high-stakes tournament odds" },
+
+  /* 🏗️ MAJOR PROMOTIONS & INDEPENDENTS */
+  { "id": "tna-impact", "name": "TNA Wrestling", "platform": "AXS TV", "tagline": "the resilient contender: wagering on the cross-promotional stars of the impact zone" },
+  { "id": "ring-of-honor", "name": "Ring of Honor (ROH)", "platform": "HonorClub", "tagline": "pure technical wrestling: high-value betting on the next generation of elite talent" },
+  { "id": "mlw-fusion", "name": "Major League Wrestling (MLW)", "country": "USA", "tagline": "the hybrid fighting brand: aggressive matches and underground wagering styles" },
+  { "id": "revpro-uk", "name": "Revolution Pro Wrestling", "country": "UK", "tagline": "the best of british wrestling: elite european wagering and international crossovers" }
+]

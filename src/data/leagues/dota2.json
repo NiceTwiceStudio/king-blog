@@ -1,0 +1,26 @@
+[
+  /* 🏆 THE S-TIER PINNACLE (TIER 1) */
+  { "id": "the-international-2026", "name": "The International 2026", "tier": "1", "tagline": "The legendary battle for the Aegis of Champions: Dota 2's ultimate global prestige event" },
+  { "id": "esports-world-cup-2026-dota", "name": "Esports World Cup 2026", "tier": "1", "tagline": "The massive Riyadh-based showdown: featuring the largest non-crowdfunded prize pool in history" },
+  { "id": "pgl-wallachia-s8", "name": "PGL Wallachia Season 8", "tier": "1", "tagline": "Live Now: elite professional Dota 2 action from PGL's premier Romanian circuit" },
+  { "id": "pgl-wallachia-s9", "name": "PGL Wallachia Season 9", "tier": "1", "tagline": "Upcoming: the next chapter of PGL's high-stakes seasonal series in Bucharest" },
+  { "id": "blast-slam-vii", "name": "BLAST Slam VII", "tier": "1", "tagline": "High-production stadium drama: BLAST's unique format returns for its seventh edition" },
+  { "id": "blast-slam-viii", "name": "BLAST Slam VIII", "tier": "1", "tagline": "The premier Tier 1 upcoming event: crowning the next BLAST Slam champion" },
+  { "id": "dreamleague-s29", "name": "DreamLeague Season 29", "tier": "1", "tagline": "The gold standard of online leagues with elite LAN finals: a cornerstone of the ESL Pro Tour" },
+  { "id": "games-of-the-future-2026", "name": "Games of the Future 2026", "tier": "1", "tagline": "The innovative multi-sport hybrid event featuring the world's top Dota 2 talent" },
+
+  /* 🥈 TIER 2 - THE CHALLENGER CIRCUIT */
+  { "id": "1win-essence-i", "name": "1win Essence I", "tier": "2", "tagline": "High-stakes professional wagering on the emerging powerhouse teams of the Tier 2 circuit" },
+  { "id": "esl-challenger-china-s3", "name": "ESL Challenger China Season 3", "tier": "2", "tagline": "The premier gateway for the Chinese scene: partnered with the ACL for elite domestic growth" },
+
+  /* 🥉 TIER 3 - REGIONAL & SEMI-PRO */
+  { "id": "dreamleague-d2-s4", "name": "DreamLeague Division 2 Season 4", "tier": "3", "tagline": "Live Now: the fierce battle for promotion into the elite DreamLeague Tier 1 ranks" },
+  { "id": "el-gran-coliseo-de-benjaz", "name": "El Gran Coliseo de Benjaz", "tier": "3", "tagline": "South American specialty showmatch series: high-intensity technical play from the LATAM region" },
+
+  /* 🪵 TIER 4 - GRASSROOTS & NATIONALS */
+  { "id": "uesf-ukrainian-championship-2026", "name": "UESF Ukrainian Championship 2026", "tier": "4", "tagline": "National pride on the line: the premier domestic circuit for Ukrainian Dota 2 stars" },
+  { "id": "get-good-league-s2", "name": "Get Good League Season 2", "tier": "4", "tagline": "Live Now: consistent grassroots match-wagering and development action" },
+  { "id": "reincarnation-s7", "name": "REINCARNATION Season 7", "tier": "4", "tagline": "The long-running community circuit: scouting the future stars of the EEU region" },
+  { "id": "global-gaming-tver-spring", "name": "Global Gaming Tver Spring Cup", "tier": "4", "tagline": "Regional seasonal action: fast-paced grassroots Dota 2 matches" },
+  { "id": "liga-dos-ancientes-s1", "name": "Liga dos Ancientes Season 1", "tier": "4", "tagline": "The new frontier for Brazilian grassroots Dota: building the next generation of SA talent" }
+]

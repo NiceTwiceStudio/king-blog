@@ -1,0 +1,19 @@
+[
+  /* 🎤 ENTERTAINMENT & MUSIC */
+  { "id": "eurovision-2026", "name": "Eurovision Song Contest 2026", "location": "Geneva, Switzerland", "date": "May 12-16, 2026", "tagline": "The world's biggest music betting event: 40 nations compete for the trophy in Geneva" },
+  { "id": "academy-awards-2027", "name": "The 99th Academy Awards (Oscars)", "location": "Hollywood, CA", "date": "March 2027", "tagline": "The pinnacle of film wagering: betting on the best of cinema's leading year" },
+  { "id": "cannes-film-festival-2026", "name": "79th Cannes Film Festival", "location": "Cannes, France", "date": "May 12-23, 2026", "tagline": "Betting on the Palme d'Or: elite film industry markets starting in two weeks" },
+  { "id": "grammy-awards-2027", "name": "The 69th Annual Grammy Awards", "region": "USA", "tagline": "Music's biggest night: wagering on Album of the Year and the new 'Best AI-Hybrid' category" },
+
+  /* 🏛️ POLITICS & ELECTIONS */
+  { "id": "us-midterm-elections-2026", "name": "2026 US Midterm Elections", "country": "USA", "date": "Nov 3, 2026", "tagline": "High-stakes political wagering: the battle for the House and Senate in the 2026 midterms" },
+  { "id": "uk-general-election-cycle", "name": "UK General Election Cycle", "country": "UK", "tagline": "Tracking the odds for the next Downing Street occupant and party seat counts" },
+
+  /* 🌌 NOVELTY & FUTURE EVENTS */
+  { "id": "nobel-prizes-2026", "name": "The Nobel Prizes", "region": "Global", "date": "Oct 2026", "tagline": "Intellectual wagering: predicting the winners of the Peace and Literature prizes" },
+  { "id": "space-race-2026", "name": "SpaceX Starship Moon Landing", "region": "Global", "tagline": "Novelty wagering: the timeline for the next human footprint on the lunar surface" },
+  { "id": "time-person-of-the-year-2026", "name": "TIME Person of the Year", "region": "Global", "date": "Dec 2026", "tagline": "The year-end prediction market: who defined the global narrative in 2026?" },
+
+  /* 👑 ROYALTY & SOCIETY */
+  { "id": "british-royal-family-specials", "name": "Royal Family Specials", "country": "UK", "tagline": "Novelty markets: betting on royal titles, baby names, and official appearances" }
+]

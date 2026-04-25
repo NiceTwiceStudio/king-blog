@@ -1,0 +1,24 @@
+[
+  /* 🏆 THE ELITE NATIONAL LEVEL */
+  { "id": "afl", "name": "AFL", "country": "Australia", "tagline": "the world's premier australian rules football league with elite 2026 wildcard finals odds" },
+  { "id": "aflw", "name": "AFLW", "country": "Australia", "tagline": "the highest level of professional women's australian rules football" },
+  { "id": "afl-origin", "name": "AFL State of Origin", "country": "Australia", "tagline": "the historic 2026 return of WA vs Victoria state-based rivalry" },
+
+  /* 🏗️ MAJOR STATE LEAGUES (ELITE SEMI-PRO / FEEDERS) */
+  { "id": "vfl", "name": "VFL", "country": "Australia (VIC/NSW/QLD)", "tagline": "the premier second-tier competition featuring AFL reserve and standalone clubs" },
+  { "id": "sanfl", "name": "SANFL", "country": "Australia (SA)", "tagline": "south australia's historic and fiercely competitive professional football league" },
+  { "id": "wafl", "name": "WAFL", "country": "Australia (WA)", "tagline": "the highest level of senior football in western australia with deep betting markets" },
+  { "id": "qafl", "name": "QAFL", "country": "Australia (QLD)", "tagline": "the premier domestic australian rules competition in queensland" },
+  { "id": "tsl", "name": "TSL", "country": "Australia (TAS)", "tagline": "tasmania's top-flight football league: the heartland of the south" },
+
+  /* 🚺 WOMEN'S STATE LEAGUES */
+  { "id": "vflw", "name": "VFLW", "country": "Australia (VIC)", "tagline": "victoria's premier state-league women's football competition" },
+  { "id": "sanflw", "name": "SANFLW", "country": "Australia (SA)", "tagline": "elite women's football wagering from the south australian state circuit" },
+  { "id": "waflw", "name": "WAFLW", "country": "Australia (WA)", "tagline": "top-tier women's football match betting from western australia" },
+  { "id": "qaflw", "name": "QAFLW", "country": "Australia (QLD)", "tagline": "the premier women's australian rules competition in queensland" },
+
+  /* 🌍 INTERNATIONAL & AMATEUR */
+  { "id": "afl-international-cup", "name": "AFL International Cup", "region": "Global", "tagline": "the world cup of australian rules football featuring global national teams" },
+  { "id": "afl-europe-champions-league", "name": "AFL Europe Champions League", "region": "Europe", "tagline": "the premier club competition for australian rules football in Europe" },
+  { "id": "usafl", "name": "USAFL", "country": "USA", "tagline": "professional-tier australian rules football wagering in North America" }
+]

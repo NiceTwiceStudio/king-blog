@@ -1,0 +1,24 @@
+[
+  /* 🏆 THE INTERNATIONAL PINNACLE (TIER 1) */
+  { "id": "wci-2026", "name": "World of Tanks Championship International (WCI)", "region": "Global", "tagline": "The ultimate global clash: crowning the 2026 world champions on the international stage" },
+  { "id": "onslaught-legends-finals", "name": "Onslaught Legends Finals", "region": "Global", "tagline": "The premier 7v7 competitive showcase featuring the world's most elite individual talent" },
+  { "id": "tankfest-2026-showdown", "name": "Tankfest 2026 Invitational", "location": "Bovington, UK", "date": "June 26-28, 2026", "tagline": "Historic armor meets modern esports: the elite invitational live from The Tank Museum" },
+
+  /* 💎 TIER 1 - REGIONAL CHAMPIONSHIPS (WCL) */
+  { "id": "wcl-2026-spring-split", "name": "WCL 2026 Spring Split", "region": "Global/Regional", "tagline": "Live Now: the championship final push for the Spring Split title across EU, NA, and APAC" },
+  { "id": "wcl-2026-autumn-split", "name": "WCL 2026 Autumn Split", "region": "Global/Regional", "tagline": "The second half of the pro season: determining the final seeds for the WCI 2026" },
+
+  /* 🥈 TIER 2 - CLAN SHOWDOWNS & CHALLENGERS */
+  { "id": "clan-showdown-eu-2026", "name": "Clan Showdown EU", "region": "Europe", "tagline": "The 15v15 tactical peak: where the top European clans battle for regional dominance" },
+  { "id": "clan-showdown-na-2026", "name": "Clan Showdown NA", "region": "North America", "tagline": "High-stakes strategic warfare: the premier clan competition for the North American circuit" },
+  { "id": "ols-s6", "name": "Onslaught Legends Series Season 6", "tier": "2", "tagline": "The brutal road to the finals: high-frequency competitive 7v7 match wagering" },
+
+  /* 🥉 TIER 3 - BLITZ MASTERS & NATIONALS */
+  { "id": "blitz-masters-spring-2026", "name": "Blitz Masters: Spring Tournaments", "platform": "Mobile/Blitz", "tagline": "The premier mobile armor circuit: featuring the 'New Horizons' and 'Resistance' series" },
+  { "id": "blitz-diamond-cup", "name": "Blitz Diamond Cup", "platform": "Mobile/Blitz", "tagline": "Elite 7v7 Blitz wagering: crowning the champions of the mobile battlefield" },
+  { "id": "bb-ch-div1-split3", "name": "BB CH Division 1", "region": "EEU", "tagline": "The premier Eastern European developmental circuit for rising professional stars" },
+
+  /* 🪵 TIER 4 - GRASSROOTS & COMMUNITY */
+  { "id": "clan-showdown-qualifiers", "name": "Clan Showdown Open Qualifiers", "region": "Global", "tagline": "The grassroots entry point: where amateur clans fight for a spot in the Tier 2 brackets" },
+  { "id": "rating-battles-championship", "name": "Rating Battles Championship", "region": "Global", "tagline": "Wagering on the world's highest-ranked individual ladder players in a tournament format" }
+]

@@ -1,0 +1,67 @@
+[
+  /* 🌍 GLOBAL & INTERNATIONAL CLUB COMPETITIONS */
+  { "id": "cev-champions-league", "name": "CEV Champions League", "region": "Europe", "tagline": "the pinnacle of european club volleyball championships" },
+  { "id": "cev-cup", "name": "CEV Cup", "region": "Europe", "tagline": "high-level european club volleyball wagering and cup action" },
+  { "id": "cev-challenge-cup", "name": "CEV Challenge Cup", "region": "Europe", "tagline": "competitive third-tier european club volleyball wagering" },
+  { "id": "fivb-club-world-championship", "name": "FIVB Club World Championship", "region": "Global", "tagline": "the world's best volleyball clubs competing for global supremacy" },
+  { "id": "avc-club-championship", "name": "AVC Club Championships", "region": "Asia", "tagline": "the premier asian club volleyball competition for men and women" },
+  { "id": "csv-club-championship", "name": "South American Club Championship", "region": "South America", "tagline": "elite south american club volleyball wagering and match odds" },
+  { "id": "african-club-championship", "name": "African Club Championship", "region": "Africa", "tagline": "the top-tier professional club volleyball circuit in Africa" },
+  { "id": "norceca-champions-cup", "name": "NORCECA Champions Cup", "region": "North America", "tagline": "north and central american club volleyball championship betting" },
+
+  /* 🇮🇹 ITALY - THE GOLD STANDARD */
+  { "id": "superlega-italy", "name": "SuperLega", "country": "Italy", "tagline": "the world's premier men's volleyball league with elite crypto odds" },
+  { "id": "serie-a1-femminile", "name": "Serie A1 Femminile", "country": "Italy", "tagline": "the strongest women's professional volleyball league in Italy" },
+  { "id": "serie-a2-italy", "name": "Serie A2 Italy", "country": "Italy", "tagline": "competitive second-tier italian volleyball match wagering" },
+
+  /* 🇹🇷 TURKEY */
+  { "id": "efeler-ligi", "name": "Efeler Ligi", "country": "Turkey", "tagline": "top-tier turkish men's professional volleyball match wagering" },
+  { "id": "sultanlar-ligi", "name": "Sultanlar Ligi", "country": "Turkey", "tagline": "the world-leading turkish women's volleyball circuit" },
+
+  /* 🇵🇱 POLAND */
+  { "id": "plusliga", "name": "PlusLiga", "country": "Poland", "tagline": "high-intensity polish men's professional volleyball betting" },
+  { "id": "tauron-liga", "name": "Tauron Liga", "country": "Poland", "tagline": "poland's elite women's volleyball competition and match odds" },
+
+  /* 🇧🇷 BRAZIL */
+  { "id": "superliga-masculina", "name": "Superliga Masculina", "country": "Brazil", "tagline": "brazil's premier men's volleyball league match betting" },
+  { "id": "superliga-feminina", "name": "Superliga Feminina", "country": "Brazil", "tagline": "top-flight brazilian women's professional volleyball wagering" },
+
+  /* 🇺🇸 USA - THE NEW PRO LANDSCAPE */
+  { "id": "mlv-usa", "name": "Major League Volleyball (MLV)", "country": "USA", "tagline": "the newly merged premier professional women's league in the US" },
+  { "id": "lovb-usa", "name": "League One Volleyball (LOVB)", "country": "USA", "tagline": "the star-studded professional women's volleyball league in America" },
+  { "id": "ncaa-volleyball", "name": "NCAA Volleyball", "country": "USA", "tagline": "elite collegiate volleyball betting and developmental circuit odds" },
+  { "id": "avp-beach", "name": "AVP Pro Beach Volleyball", "country": "USA", "tagline": "the premier professional beach volleyball tour betting" },
+
+  /* 🇯🇵 JAPAN & 🇰🇷 KOREA */
+  { "id": "sv-league-japan", "name": "SV.League", "country": "Japan", "tagline": "bet on the elite professional volleyball circuit in Japan" },
+  { "id": "v-league-korea", "name": "V-League South Korea", "country": "South Korea", "tagline": "high-speed technical volleyball betting from the korean pro circuit" },
+
+  /* 🇷🇺 RUSSIA */
+  { "id": "russian-super-league", "name": "Russian Super League", "country": "Russia", "tagline": "intense domestic russian volleyball match wagering and odds" },
+
+  /* 🇫🇷 FRANCE & 🇩🇪 GERMANY */
+  { "id": "ligue-a-france", "name": "Ligue A France", "country": "France", "tagline": "premium french professional volleyball betting and results" },
+  { "id": "bundesliga-volleyball", "name": "German Bundesliga", "country": "Germany", "tagline": "the highest level of domestic volleyball in Germany" },
+
+  /* 🇪🇸 SPAIN / 🇵🇹 PORTUGAL / 🇬🇷 GREECE */
+  { "id": "superliga-spain", "name": "Superliga Spain", "country": "Spain", "tagline": "spain's top professional volleyball league match betting" },
+  { "id": "campeonato-portugal", "name": "Campeonato Nacional", "country": "Portugal", "tagline": "portuguese domestic volleyball wagering and league results" },
+  { "id": "a1-ethniki-greece", "name": "A1 Ethniki", "country": "Greece", "tagline": "the premier professional volleyball league in Greece" },
+
+  /* 🇨🇿 CENTRAL EUROPE */
+  { "id": "czech-extraliga-volleyball", "name": "Czech Extraliga", "country": "Czechia", "tagline": "high-quality professional volleyball betting from Czechia" },
+  { "id": "slovak-extraliga-volleyball", "name": "Slovak Extraliga", "country": "Slovakia", "tagline": "the top flight of professional volleyball in Slovakia" },
+  { "id": "austrian-volley-league", "name": "Austrian Volley League", "country": "Austria", "tagline": "domestic austrian volleyball league wagering and results" },
+
+  /* 🇨🇳 ASIA GROWTH */
+  { "id": "chinese-super-league", "name": "Chinese Volleyball Super League", "country": "China", "tagline": "professional chinese club volleyball wagering markets" },
+  { "id": "thailand-league", "name": "Thailand League", "country": "Thailand", "tagline": "top-tier thai domestic volleyball match betting" },
+  { "id": "vietnam-league", "name": "Vietnam Volleyball League", "country": "Vietnam", "tagline": "rapidly growing professional volleyball wagering in Vietnam" },
+  { "id": "proliga-indonesia", "name": "Proliga Indonesia", "country": "Indonesia", "tagline": "indonesia's premier professional volleyball competition" },
+  { "id": "pvl-philippines", "name": "Premier Volleyball League", "country": "Philippines", "tagline": "the highly popular professional women's league in the Philippines" },
+
+  /* 🇦🇷 SOUTH AMERICA & 🌍 AFRICA */
+  { "id": "liga-argentina", "name": "Liga Argentina de Voleivol", "country": "Argentina", "tagline": "professional argentinian club volleyball match wagering" },
+  { "id": "peru-volleyball", "name": "National League Peru", "country": "Peru", "tagline": "historic peruvian women's volleyball betting and match odds" },
+  { "id": "egyptian-volleyball", "name": "Egyptian Volleyball League", "country": "Egypt", "tagline": "the strongest professional volleyball circuit in Africa" }
+]

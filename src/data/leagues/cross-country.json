@@ -1,0 +1,25 @@
+[
+  /* 🏆 THE GLOBAL MAJORS */
+  { "id": "world-athletics-xc-championships", "name": "World Athletics Cross Country Championships", "region": "Global", "tagline": "the ultimate global showdown: crown the world champions in Tallahassee 2026" },
+  { "id": "european-xc-championships", "name": "SPAR European Cross Country Championships", "region": "Europe", "tagline": "continental supremacy: elite european distance runners battle in Belgrade, December 2026" },
+  { "id": "ncaa-xc-championships", "name": "NCAA Division I XC Championships", "country": "USA", "tagline": "the world's most competitive collegiate race: elite US distance running wagering" },
+
+  /* 🥇 WORLD ATHLETICS CROSS COUNTRY TOUR - GOLD LEVEL */
+  { "id": "cinque-mulini", "name": "Cinque Mulini", "country": "Italy", "tagline": "the historic 'Five Mills' race: one of the most iconic cross-country events in the world" },
+  { "id": "campaccio-international", "name": "Campaccio International", "country": "Italy", "tagline": "elite world-tour gold wagering on the technical trails of San Giorgio su Legnano" },
+  { "id": "cross-itálica", "name": "Cross Internacional de Itálica", "country": "Spain", "tagline": "betting on world-class fields at the historic roman ruins of Seville" },
+  { "id": "sirikwa-classic", "name": "Sirikwa Classic", "country": "Kenya", "tagline": "the heart of distance running: wagering on the elite kenyan cross-country circuit" },
+  { "id": "cross-atapuerca", "name": "Cross Internacional de Atapuerca", "country": "Spain", "tagline": "the premier spanish gold-level tour event with massive betting volume" },
+  { "id": "cross-cup-hannut", "name": "CrossCup de Hannut", "country": "Belgium", "tagline": "the crown jewel of the belgian cross-country circuit with elite global talent" },
+
+  /* 🏛️ MAJOR DOMESTIC LEAGUES & CHAMPIONSHIPS */
+  { "id": "french-xc-championships", "name": "French Cross Country Championships", "country": "France", "tagline": "the massive 'Les France' event: high-volume wagering on the french domestic elite" },
+  { "id": "british-xc-championships", "name": "British Cross Country Championships", "country": "UK", "tagline": "the historic battle for national supremacy across the UK mud" },
+  { "id": "kenyan-xc-championships", "name": "Kenyan Cross Country Championships", "country": "Kenya", "tagline": "the most competitive national championship in the world: wagering on the de-facto world elite" },
+  { "id": "indian-xc-championships", "name": "Indian National XC Championships", "country": "India", "tagline": "betting on the rapidly expanding professional cross-country circuit in India" },
+
+  /* 🎓 NCAA CONFERENCE POWERHOUSES (USA) */
+  { "id": "sec-cross-country", "name": "SEC Cross Country", "country": "USA", "tagline": "high-stakes collegiate wagering from the powerful Southeastern Conference" },
+  { "id": "acc-cross-country", "name": "ACC Cross Country", "country": "USA", "tagline": "premier atlantic coast conference distance running odds and results" },
+  { "id": "big-10-cross-country", "name": "Big Ten Cross Country", "country": "USA", "tagline": "traditional midwest powerhouse collegiate cross-country betting" }
+]

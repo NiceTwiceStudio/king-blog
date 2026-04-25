@@ -1,0 +1,21 @@
+[
+  /* 🏆 THE 2026 WINTER OLYMPICS (THE CROWN JEWEL) */
+  { "id": "milano-cortina-2026-ski-jumping", "name": "Milano Cortina 2026 Winter Olympics", "region": "Italy", "tagline": "recap the historic 2026 olympic flights from the Predazzo Ski Jumping Stadium" },
+
+  /* 🦅 FIS SKI JUMPING WORLD CUP (THE ELITE CIRCUIT) */
+  { "id": "four-hills-tournament", "name": "Four Hills Tournament (Vierschanzentournee)", "region": "GER/AUT", "tagline": "the prestigious new year's tradition: four venues, one grand slam champion" },
+  { "id": "raw-air-tournament", "name": "Raw Air Tournament", "country": "Norway", "tagline": "the world's most extreme ski jumping tour: 10 days of non-stop nordic competition" },
+  { "id": "fis-world-cup-planica", "name": "Planica 7", "country": "Slovenia", "tagline": "the grand season finale on the Letalnica: where world records are broken" },
+  { "id": "ski-flying-world-championships", "name": "FIS Ski Flying World Championships", "region": "Global", "tagline": "the ultimate adrenaline rush: wagering on the world's longest flights beyond 240m" },
+
+  /* 🏔️ KEY WORLD CUP STOPS */
+  { "id": "world-cup-zakopane", "name": "World Cup Zakopane", "country": "Poland", "tagline": "the electric 'Wielka Krokiew' atmosphere: high-volume polish betting markets" },
+  { "id": "world-cup-wilingen", "name": "Willingen Five", "country": "Germany", "tagline": "bet on the largest ski jump in the world outside of the flying hills" },
+  { "id": "world-cup-sapporo", "name": "World Cup Sapporo", "country": "Japan", "tagline": "the elite asian stop of the circuit: technical jumping at the Okurayama" },
+
+  /* 🔴 RED BULL & SPECIAL EVENTS */
+  { "id": "red-bull-target-jumping", "name": "Red Bull Target Jumping", "country": "Poland", "tagline": "the 2026 post-season spectacle: legends vs stars in a pure distance battle" },
+
+  /* 🚺 WOMEN'S WORLD CUP (ELITE) */
+  { "id": "two-nights-tournament", "name": "Two Nights Tournament", "region": "Germany", "tagline": "the premier women's new year's event and precursor to a full four-hills expansion" }
+]

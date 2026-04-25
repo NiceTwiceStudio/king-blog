@@ -1,0 +1,19 @@
+[
+  /* 🏆 THE GLOBAL VIRTUAL PINNACLE */
+  { "id": "world-e-cricket-championship", "name": "World e-Cricket Championship (WeCC)", "region": "Global", "tagline": "the elite global championship circuit for Cricket 24: crowning the world's best virtual players" },
+  { "id": "ecricket-masters-series", "name": "e-Cricket Masters Series 2026", "region": "Global", "tagline": "high-stakes invitational matches featuring top-ranked global esports pros" },
+
+  /* 💎 MAJOR FRANCHISE ESPORTS LEAGUES */
+  { "id": "e-ipl-2026", "name": "e-IPL (Virtual Indian Premier League)", "country": "India", "tagline": "the digital counterpart to the world's biggest league: high-volume match wagering" },
+  { "id": "e-mlc-series", "name": "e-MLC (Major League Cricket Esports)", "country": "USA", "tagline": "coinciding with the 2026 MLC season: bringing the american cricket boom to the console" },
+  { "id": "bbl-virtual-cup", "name": "BBL Virtual Cup", "country": "Australia", "tagline": "australia's premier virtual T20 tournament: fast-paced technical play and match odds" },
+
+  /* 🥈 TIER 2 & REGIONAL CHALLENGERS */
+  { "id": "county-esports-championship", "name": "County Esports Championship", "country": "UK", "tagline": "the top-tier UK virtual domestic circuit featuring the 18 historic counties" },
+  { "id": "asian-virtual-cup", "name": "Asian Virtual Cricket Cup", "region": "Asia", "tagline": "the premier regional showdown for the rising stars of Asian virtual cricket" },
+  { "id": "e-psl-challenge", "name": "e-PSL (Pakistan Super League Esports)", "country": "Pakistan", "tagline": "high-intensity virtual T20 action from the heart of Pakistan's gaming community" },
+
+  /* 🥉 TIER 3 - COMMUNITY & AMATEUR */
+  { "id": "big-ant-community-shield", "name": "Big Ant Community Shield", "region": "Global", "tagline": "the grassroots engine of Cricket 24: high-frequency amateur league wagering" },
+  { "id": "discord-pro-leagues-c24", "name": "Pro Series Discord Leagues", "region": "Global", "tagline": "the backbone of competitive play: where the hardcore community settles the score" }
+]

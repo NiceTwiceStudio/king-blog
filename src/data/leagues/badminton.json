@@ -1,0 +1,38 @@
+[
+  /* 🏆 GRADE 1 - MAJOR CHAMPIONSHIPS (THE "MAJORS") */
+  { "id": "bwf-world-championships", "name": "BWF World Championships", "region": "Global", "tagline": "the pinnacle of individual badminton: crowning world champions in New Delhi 2026" },
+  { "id": "thomas-uber-cup", "name": "Thomas & Uber Cup", "region": "Global", "tagline": "the world cup of badminton: elite men's and women's national team championships" },
+  { "id": "sudirman-cup", "name": "Sudirman Cup", "region": "Global", "tagline": "the world mixed team badminton championships: the ultimate test of national depth" },
+
+  /* 💎 BWF WORLD TOUR - SUPER 1000 (THE ELITE CIRCUIT) */
+  { "id": "all-england-open", "name": "All England Open", "tier": "super-1000", "tagline": "the world's oldest and most prestigious badminton tournament from Birmingham" },
+  { "id": "malaysia-open", "name": "Malaysia Open", "tier": "super-1000", "tagline": "high-octane season opener with elite crypto odds from Kuala Lumpur" },
+  { "id": "indonesia-open", "name": "Indonesia Open", "tier": "super-1000", "tagline": "the most atmospheric tournament in the world: live from the Istora Senayan" },
+  { "id": "china-open-badminton", "name": "China Open", "tier": "super-1000", "tagline": "elite wagering on the world's highest-prize pool regular tour event" },
+
+  /* ⭐ BWF WORLD TOUR - SUPER 750 (TOP TIER) */
+  { "id": "india-open", "name": "India Open", "tier": "super-750", "tagline": "premium professional badminton betting from the rising power of India" },
+  { "id": "japan-open-badminton", "name": "Japan Open", "tier": "super-750", "tagline": "technical and high-speed badminton match wagering in Tokyo" },
+  { "id": "singapore-open-badminton", "name": "Singapore Open", "tier": "super-750", "tagline": "top-flight professional badminton betting from the Lion City" },
+  { "id": "denmark-open-badminton", "name": "Denmark Open", "tier": "super-750", "tagline": "europe's premier professional badminton event with elite match odds" },
+  { "id": "french-open-badminton", "name": "French Open", "tier": "super-750", "tagline": "high-stakes badminton wagering from the heart of Paris" },
+
+  /* 🥇 BWF WORLD TOUR - SUPER 500 & 300 (PRO TIER) */
+  { "id": "indonesia-masters", "name": "Indonesia Masters", "tier": "super-500", "tagline": "frenzied jakarta match action and high-volume live betting markets" },
+  { "id": "thailand-open", "name": "Thailand Open", "tier": "super-500", "tagline": "southeast asia's premier professional badminton tour stop" },
+  { "id": "korea-open-badminton", "name": "Korea Open", "tier": "super-500", "tagline": "elite south korean domestic badminton betting and results" },
+  { "id": "german-open-badminton", "name": "German Open", "tier": "super-300", "tagline": "the premier professional badminton circuit event in Germany" },
+  { "id": "swiss-open-badminton", "name": "Swiss Open", "tier": "super-300", "tagline": "european tour mainstay with competitive crypto lines and odds" },
+
+  /* 🏢 FRANCHISE & PROFESSIONAL LEAGUES (HIGH ENGAGEMENT) */
+  { "id": "china-badminton-super-league", "name": "China Badminton Super League", "country": "China", "tagline": "the world's most elite domestic franchise league featuring Olympic champions" },
+  { "id": "premier-badminton-league", "name": "Premier Badminton League (PBL)", "country": "India", "tagline": "high-energy franchise badminton: shorter matches and faster betting results" },
+  { "id": "indonesia-superliga", "name": "Indonesia Badminton Superliga", "country": "Indonesia", "tagline": "indonesia's elite club-based team championship wagering" },
+
+  /* 🌏 CONTINENTAL CHAMPIONSHIPS */
+  { "id": "badminton-asia-championships", "name": "Badminton Asia Championships", "region": "Asia", "tagline": "the strongest continental championship in the world: a de-facto major" },
+  { "id": "european-badminton-championships", "name": "European Badminton Championships", "region": "Europe", "tagline": "bet on the best of european badminton in this prestigious biennial event" },
+  
+  /* 🔚 SEASON FINALE */
+  { "id": "bwf-world-tour-finals", "name": "BWF World Tour Finals", "tier": "finals", "tagline": "the ultimate season-ending battle for the world's top 8 players" }
+]

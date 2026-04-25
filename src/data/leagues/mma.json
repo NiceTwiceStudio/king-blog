@@ -1,0 +1,37 @@
+[
+  /* 🏆 THE GLOBAL TOP TIER */
+  { "id": "ufc", "name": "UFC", "country": "USA/Global", "tagline": "the world's premier mixed martial arts organization with elite crypto betting lines" },
+  { "id": "pfl", "name": "PFL", "country": "USA/Global", "tagline": "high-stakes tournament style MMA wagering with the $1 million season prize" },
+  { "id": "one-championship", "name": "ONE Championship", "country": "Singapore/Asia", "tagline": "the home of martial arts: elite MMA, muay thai, and kickboxing wagering" },
+  { "id": "ksw", "name": "KSW", "country": "Poland/Europe", "tagline": "europe's most cinematic MMA promotion with massive heavyweight match odds" },
+  { "id": "oktagon-mma", "name": "Oktagon MMA", "country": "Czechia/Germany/Europe", "tagline": "bet on the fastest-growing MMA promotion in Europe and the Tipsport Gamechanger" },
+
+  /* 🇺🇸 NORTH AMERICAN SECONDARY & FEEDERS */
+  { "id": "invicta-fc", "name": "Invicta FC", "country": "USA", "tagline": "the world's leading all-female professional MMA promotion" },
+  { "id": "lfa", "name": "LFA", "country": "USA", "tagline": "the premier UFC feeder league: bet on the rising stars of tomorrow" },
+  { "id": "titan-fc", "name": "Titan FC", "country": "USA", "tagline": "high-level regional MMA match wagering from the american circuit" },
+
+  /* 🇯🇵 JAPANESE & ASIAN POWERHOUSES */
+  { "id": "rizin", "name": "RIZIN FF", "country": "Japan", "tagline": "japanese pride rules and high-octane MMA action from the Saitama Super Arena" },
+  { "id": "pancrase", "name": "Pancrase", "country": "Japan", "tagline": "historic japanese MMA wagering from the hybrid wrestling legends" },
+  { "id": "deep-mma", "name": "DEEP", "country": "Japan", "tagline": "the cornerstone of japanese domestic MMA with deep divisional betting" },
+  { "id": "kunlun-fight", "name": "Kunlun Fight", "country": "China", "tagline": "elite chinese combat sports wagering and MMA crossover events" },
+
+  /* 🇷🇺 RUSSIAN & EURASIAN CIRCUITS */
+  { "id": "aca-mma", "name": "ACA", "country": "Russia", "tagline": "absolute championship akhmat: some of the world's toughest MMA match odds" },
+  { "id": "rcc-mma", "name": "RCC", "country": "Russia", "tagline": "premier russian cagefighting action featuring elite eurasian talent" },
+  { "id": "fight-nights-global", "name": "Fight Nights Global", "country": "Russia", "tagline": "high-production russian MMA betting and championship bouts" },
+
+  /* 🇬🇧 EUROPEAN & MIDDLE EASTERN GROWTH */
+  { "id": "cage-warriors", "name": "Cage Warriors", "country": "UK/Europe", "tagline": "the proving ground for european stars: bet on the path to the UFC" },
+  { "id": "ares-fc", "name": "ARES FC", "country": "France", "tagline": "france's premier professional MMA league with elite afro-european talent" },
+  { "id": "uae-warriors", "name": "UAE Warriors", "country": "UAE", "tagline": "the middle east's premier MMA destination with a global roster" },
+  { "id": "brave-cf", "name": "BRAVE CF", "country": "Bahrain/Global", "tagline": "truly global MMA wagering from the fastest-growing international promotion" },
+
+  /* 🇦🇺 OCEANIA, 🇿🇦 AFRICA & 🇧🇷 LATAM */
+  { "id": "eternal-mma", "name": "Eternal MMA", "country": "Australia", "tagline": "the premier professional MMA circuit in the australian region" },
+  { "id": "hex-fight-series", "name": "Hex Fight Series", "country": "Australia", "tagline": "high-level oceanic MMA match wagering and title fights" },
+  { "id": "efc-worldwide", "name": "EFC", "country": "South Africa", "tagline": "africa's largest professional MMA organization with continental odds" },
+  { "id": "jungle-fight", "name": "Jungle Fight", "country": "Brazil", "tagline": "the historic breeding ground for brazilian MMA legends" },
+  { "id": "combate-global", "name": "Combate Global", "country": "Mexico/USA", "tagline": "high-intensity latino MMA match betting and tournament formats" }
+]

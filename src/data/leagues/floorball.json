@@ -1,0 +1,26 @@
+[
+  /* 🏆 THE GLOBAL PINNACLE */
+  { "id": "wfc-2026-tampere", "name": "IFF Men's World Floorball Championships", "region": "Global", "tagline": "the world's premier floorball event: 16 nations battle for gold in Tampere, December 2026" },
+  { "id": "iff-champions-cup", "name": "Champions Cup", "region": "Europe", "tagline": "the 'Champions League' of floorball featuring the domestic winners from the Big Four nations" },
+
+  /* 🇸🇪 SWEDEN - THE WORLD's STRONGEST LEAGUE */
+  { "id": "ssl-sweden", "name": "Svenska Superligan (SSL)", "country": "Sweden", "tagline": "widely considered the best floorball league in the world with elite crypto odds" },
+  { "id": "ssl-women", "name": "SSL Dam", "country": "Sweden", "tagline": "the premier women's professional floorball league featuring global superstars" },
+  { "id": "swedish-cup-floorball", "name": "Svenska Cupen", "country": "Sweden", "tagline": "the historic knockout cup competition for swedish floorball clubs" },
+
+  /* 🇫🇮 FINLAND - THE TECHNICAL POWERHOUSE */
+  { "id": "f-liiga-finland", "name": "F-liiga", "country": "Finland", "tagline": "finland's elite floorball circuit: high-speed technical play and professional match wagering" },
+  { "id": "f-liiga-women", "name": "F-liiga Women", "country": "Finland", "tagline": "top-flight finnish women's floorball betting and league results" },
+
+  /* 🇨🇿 CZECHIA & 🇨🇭 SWITZERLAND */
+  { "id": "livesport-superliga", "name": "Livesport Superliga", "country": "Czechia", "tagline": "the premier czech floorball league: massive growth and high-intensity match odds" },
+  { "id": "l-u-p-l", "name": "Lidl Unihockey Prime League (UPL)", "country": "Switzerland", "tagline": "switzerland's top-tier professional floorball circuit with elite global talent" },
+
+  /* 🇩🇪 GERMANY & 🇳🇴 NORWAY (EMERGING PRO TIER) */
+  { "id": "floorball-bundesliga", "name": "Floorball-Bundesliga", "country": "Germany", "tagline": "the highest level of domestic floorball wagering in Germany" },
+  { "id": "eliteserien-floorball", "name": "Eliteserien", "country": "Norway", "tagline": "norway's premier domestic floorball competition and match odds" },
+
+  /* 🌏 ASIA & 🇺🇸 NORTH AMERICA */
+  { "id": "nafl-usa", "name": "North American Floorball League (NAFL)", "country": "USA/Canada", "tagline": "the premier summer professional floorball league in North America" },
+  { "id": "aofc-cup", "name": "AOFC Cup", "region": "Asia-Oceania", "tagline": "the top continental championship for national teams in Asia and Oceania" }
+]

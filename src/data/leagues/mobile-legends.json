@@ -1,0 +1,30 @@
+[
+  /* 🏆 THE INTERNATIONAL MAJORS (S-TIER) */
+  { "id": "m8-world-championship", "name": "M8 World Championship", "location": "Türkiye", "date": "Jan 2027", "tagline": "The pinnacle of MLBB: the first-ever M-Series final to be held in Europe" },
+  { "id": "m7-world-championship", "name": "M7 World Championship", "location": "Jakarta, Indonesia", "date": "Jan 2026", "tagline": "Recap Aurora Gaming's historic first title in the heart of Indonesia" },
+  { "id": "msc-2026", "name": "Mid Season Cup (MSC)", "location": "Riyadh, Saudi Arabia", "date": "July 22 - Aug 1, 2026", "prize": "$3,000,000", "tagline": "The world's richest mid-season event at the Esports World Cup" },
+  { "id": "enc-2026-mlbb", "name": "Esports Nations Cup (ENC)", "location": "Riyadh, Saudi Arabia", "date": "Nov 23-29, 2026", "tagline": "National pride: 32 national teams battle in MLBB's first official World Cup format" },
+
+  /* 💎 TIER 1 - PROFESSIONAL LEAGUES (MPL & REGIONAL) */
+  { "id": "mpl-ph-s17", "name": "MPL Philippines Season 17", "region": "Philippines", "tagline": "The world's strongest region: home to champions Aurora Gaming and Team Liquid PH" },
+  { "id": "mpl-id-s17", "name": "MPL Indonesia Season 17", "region": "Indonesia", "tagline": "High-stakes drama from Jakarta: featuring the legendary Fnatic ONIC and RRQ Hoshi" },
+  { "id": "mpl-my-s17", "name": "MPL Malaysia Season 17", "region": "Malaysia", "tagline": "The rising force: home of the Selangor Red Giants and intense regional rivalries" },
+  { "id": "mcc-s7", "name": "MLBB Continental Championships (EECA)", "region": "EECA", "tagline": "Eastern Europe and Central Asia's elite circuit: the pathway for Team Spirit" },
+  { "id": "mtc-s7", "name": "MTC Turkiye Championship", "region": "Türkiye", "tagline": "The host region for M8: Turkey's premier professional MLBB league" },
+  { "id": "mct-amer-2026", "name": "MLBB Championship Tour (AMER)", "region": "Americas", "tagline": "The unified North and South American circuit featuring the best of the West" },
+  { "id": "china-masters-s2", "name": "MLBB China Masters Season 2", "region": "China", "tagline": "The expansion frontier: China's elite professional league following their M7 debut" },
+
+  /* 🥈 TIER 2 - CHALLENGER & DEVELOPMENTAL LEAGUES */
+  { "id": "mdl-id-s13", "name": "MDL Indonesia (Developmental)", "region": "Indonesia", "tagline": "The primary feeder for MPL ID: scouting the next generation of global stars" },
+  { "id": "mdl-ph-s7", "name": "MDL Philippines (Challengers)", "region": "Philippines", "tagline": "Where legends begin: the high-intensity developmental league of the Philippines" },
+  { "id": "mal-s5", "name": "MLBB Academy League Malaysia", "region": "Malaysia", "tagline": "The grassroots pathway for the rapidly growing Malaysian pro scene" },
+  { "id": "mec-s2", "name": "MLBB European Championship", "region": "Europe", "tagline": "The Western Europe qualifier for the MSC Wildcard and global events" },
+
+  /* 🥉 TIER 3 - AMATEUR & COMMUNITY */
+  { "id": "mcc-mekong-s7", "name": "M-Challenge Cup Mekong", "region": "SEA", "tagline": "The premier sub-regional circuit for Thailand, Laos, and Vietnam" },
+  { "id": "national-champ-series", "name": "ML National Championship", "region": "Global", "tagline": "Local grassroots tournaments feeding into the regional Championship Tours" },
+
+  /* 🚺 WOMEN'S & MULTI-SPORT */
+  { "id": "mwi-2026", "name": "MLBB Women's Invitational", "location": "Riyadh, Saudi Arabia", "prize": "$500,000", "tagline": "The pinnacle of women's MLBB: global championship action at the EWC" },
+  { "id": "asian-games-2026-mlbb", "name": "20th Asian Games Aichi-Nagoya", "location": "Japan", "date": "Sept-Oct 2026", "tagline": "MLBB debuts as an official medal event on the Olympic-level stage" }
+]

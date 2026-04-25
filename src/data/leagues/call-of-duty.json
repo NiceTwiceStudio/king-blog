@@ -1,0 +1,18 @@
+[
+  /* 🏆 THE PINNACLE - CDL (S-TIER) */
+  { "id": "cdl-champs-2026", "name": "2026 Call of Duty League Championship", "location": "Las Vegas, NV", "date": "July 16-19, 2026", "tagline": "The grand finale: crown the world champions under the bright lights of Las Vegas" },
+  { "id": "cdl-major-3-atlanta", "name": "CDL Major III: Atlanta", "location": "Atlanta, GA", "date": "May 15-17, 2026", "tagline": "The South rises: a Pro-Am format where Challengers and Pros collide in Georgia" },
+  { "id": "cdl-major-4-paris", "name": "CDL Major IV: Paris", "location": "Paris, France", "date": "June 25-28, 2026", "tagline": "The European showdown: the final chance to earn CDL points before Champs" },
+  { "id": "cdl-stage-3-minor", "name": "Stage 3 Online Minor", "status": "LIVE", "date": "Apr 24-26, 2026", "tagline": "Live Now: high-stakes single-elimination bracket for critical CDL points" },
+
+  /* 🌍 WARZONE - WORLD SERIES (WSOW) */
+  { "id": "wsow-championship-2026", "name": "World Series of Warzone Championship", "location": "Riyadh, Saudi Arabia", "date": "July 29 - Aug 1, 2026", "prize": "$1,000,000", "tagline": "The ultimate trios battle: 32 world-class squads at the Esports World Cup" },
+  { "id": "wsow-atlanta-finals", "name": "WSOW Atlanta Finals", "location": "Atlanta, GA", "date": "May 17, 2026", "tagline": "Upcoming LAN finale: crowning the Atlanta regional champions and qualifying for EWC" },
+
+  /* 🥈 TIER 2 - CHALLENGERS CIRCUIT */
+  { "id": "cod-challengers-cup-10", "name": "Challengers Cup #10", "status": "LIVE", "date": "Apr 25-26, 2026", "tagline": "Live Now: open global competition across NA, EU, LATAM, and APAC regions" },
+  { "id": "cod-challengers-elite-s3", "name": "Challengers Elite Season 3", "region": "NA/EU", "tagline": "The premier path-to-pro league: winners qualify directly for the Major III Pro-Am" },
+
+  /* 📱 MOBILE - CODM WORLD TOUR */
+  { "id": "codm-world-championship-2026", "name": "CoD Mobile World Championship", "region": "Global", "date": "Nov 5-29, 2026", "tagline": "The premier mobile shooter finale: crowning the global kings of CoD Mobile" }
+]

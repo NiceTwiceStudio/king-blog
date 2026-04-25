@@ -1,0 +1,20 @@
+[
+  /* 🏁 THE NATIONAL SERIES (THE BIG THREE) */
+  { "id": "nascar-cup-series", "name": "NASCAR Cup Series", "country": "USA/Mexico", "tagline": "the pinnacle of stock car racing: featuring the historic 2026 Mexico City debut" },
+  { "id": "nascar-xfinity-series", "name": "NASCAR Xfinity Series", "country": "USA", "tagline": "where names are made: high-octane racing featuring the stars of tomorrow" },
+  { "id": "nascar-craftsman-truck-series", "name": "NASCAR Craftsman Truck Series", "country": "USA", "tagline": "the toughest trucks in racing: aggressive short-track and dirt-track wagering" },
+
+  /* 🌍 REGIONAL & INTERNATIONAL SERIES */
+  { "id": "nascar-mexico-series", "name": "NASCAR México Series", "country": "Mexico", "tagline": "the premier latin american stock car circuit: home of the 2026 Cup Series support" },
+  { "id": "nascar-pintys-series", "name": "NASCAR Canada Series", "country": "Canada", "tagline": "the highest level of professional stock car racing in the Great White North" },
+  { "id": "nascar-whelen-euro-series", "name": "NASCAR Whelen Euro Series", "region": "Europe", "tagline": "american-style stock car drama on europe's most iconic road circuits" },
+  { "id": "nascar-brasil-sprint-race", "name": "NASCAR Brasil Series", "country": "Brazil", "tagline": "high-speed sprint racing from the heart of South America" },
+
+  /* 🏛️ SHORT TRACK & MODIFIEDS */
+  { "id": "nascar-whelen-modified-tour", "name": "NASCAR Whelen Modified Tour", "country": "USA", "tagline": "the oldest division in NASCAR: high-torque open-wheel stock car wagering" },
+  { "id": "nascar-advance-auto-parts-weekly", "name": "NASCAR Weekly Series", "country": "USA/Canada", "tagline": "the grassroots heart of racing: wagering on local heroes across North America" },
+
+  /* 🏆 SPECIAL EVENTS */
+  { "id": "nascar-all-star-race", "name": "NASCAR All-Star Race", "venue": "North Wilkesboro", "tagline": "the $1 million shootout: short-track survival and tactical betting" },
+  { "id": "nascar-clash-at-the-coliseum", "name": "The Busch Light Clash", "venue": "LA Coliseum", "tagline": "the stadium-racing season opener: aggressive quarters and knockout formats" }
+]

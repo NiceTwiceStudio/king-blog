@@ -1,0 +1,30 @@
+[
+  /* 🏆 THE INTERNATIONAL MAJORS (THE TRINITY) */
+  { "id": "worlds-2026", "name": "LoL World Championship (Worlds)", "location": "USA (NY/TX/LA)", "date": "Oct 15 - Nov 14, 2026", "tagline": "The ultimate climax of the 2026 season: crowning the world champion at the Barclays Center" },
+  { "id": "msi-2026", "name": "Mid-Season Invitational (MSI)", "location": "Daejeon, South Korea", "date": "June 28 - July 12, 2026", "tagline": "The cross-regional clash in Korea featuring the top 11 teams and Fearless Draft" },
+  { "id": "first-stand-2026", "name": "First Stand", "location": "São Paulo, Brazil", "date": "March 16-22, 2026", "tagline": "Recap the inaugural global checkpoint: where BLG asserted early dominance in Brazil" },
+
+  /* 💎 TIER 1 - MAJOR REGIONAL LEAGUES */
+  { "id": "lck-2026", "name": "LCK (Korea)", "region": "South Korea", "tagline": "The world's most elite league: home to T1 and the masters of macro play" },
+  { "id": "lpl-2026", "name": "LPL (China)", "region": "China", "tagline": "High-aggression pro League action from the deepest talent pool in the world" },
+  { "id": "lec-2026", "name": "LEC (EMEA)", "region": "Europe", "tagline": "Europe's premier league featuring a three-split format and roadshows in Spain & France" },
+  { "id": "lcs-2026", "name": "LCS (North America)", "region": "USA/Canada", "tagline": "The home of the 2026 World Championship: elite NA wagering from the Riot Games Arena" },
+  { "id": "lcp-2026", "name": "LCP (Asia-Pacific)", "region": "APAC", "tagline": "The unified powerhouse league for Asia-Pacific featuring talent from PCS, VCS, and LJL" },
+  { "id": "cblol-2026", "name": "CBLOL (Brazil)", "region": "Brazil", "tagline": "The world's most passionate region: fresh from hosting First Stand in São Paulo" },
+
+  /* 🥈 TIER 2 - DEVELOPMENTAL & REGIONAL MASTERS */
+  { "id": "emea-masters", "name": "EMEA Masters", "region": "Europe", "tagline": "The 'Champions League' of Tier 2: where the best of the ERLs compete for glory" },
+  { "id": "lck-challengers", "name": "LCK Challengers League", "region": "South Korea", "tagline": "Scouting the next Faker: high-intensity developmental league wagering in Korea" },
+  { "id": "ldl-china", "name": "LDL (China)", "region": "China", "tagline": "The primary feeder circuit for the LPL: high-frequency match odds and results" },
+  { "id": "nacl-north-america", "name": "NACL", "region": "North America", "tagline": "The North American Challengers League: nurturing the next generation of LCS stars" },
+  { "id": "lfl-france", "name": "LFL (France)", "region": "France", "tagline": "The gold standard of European Regional Leagues with massive viewership and hype" },
+  { "id": "prime-league-germany", "name": "Prime League", "region": "DACH", "tagline": "The premier German-speaking regional league circuit match wagering" },
+
+  /* 🥉 TIER 3 - AMATEUR & GRASSROOTS */
+  { "id": "hextech-series", "name": "Hextech Series", "region": "Global", "tagline": "Grassroots amateur circuits providing the first step toward professional play" },
+  { "id": "superliga-segunda", "name": "Superliga Segunda El Corte Inglés", "country": "Spain", "tagline": "The second division of Spanish League of Legends: intense promotion battles" },
+  { "id": "arabian-league-d2", "name": "Arabian League Division 2", "region": "MENA", "tagline": "Rising talent from the Middle East and North Africa circuit" },
+
+  /* 🎟️ SPECIAL & NON-CIRCUIT EVENTS */
+  { "id": "esports-world-cup-lol", "name": "Esports World Cup (Riyadh)", "location": "Saudi Arabia", "date": "July 13-19, 2026", "tagline": "The massive standalone invitational with a $2,000,000 prize pool" }
+]

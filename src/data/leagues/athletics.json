@@ -1,0 +1,25 @@
+[
+  /* 🏆 THE 2026 GLOBAL CHAMPIONSHIPS */
+  { "id": "european-athletics-championships-2026", "name": "European Athletics Championships", "region": "Europe", "tagline": "the historic 2026 battle in Birmingham: Europe's elite competing on UK soil" },
+  { "id": "world-athletics-ultimate-championship", "name": "World Athletics Ultimate Championship", "region": "Global", "tagline": "the 2026 debut of the world's richest track event: the best of the best in Budapest" },
+  { "id": "world-athletics-relays", "name": "World Athletics Relays", "region": "Global", "tagline": "high-speed team wagering from Gaborone 2026: the global sprint showdown" },
+
+  /* 💎 WANDA DIAMOND LEAGUE (THE ELITE CIRCUIT) */
+  { "id": "diamond-league-doha", "name": "Doha Diamond League", "tier": "diamond-league", "tagline": "the traditional middle-eastern season opener with elite global match odds" },
+  { "id": "diamond-league-london", "name": "London Athletics Meet", "tier": "diamond-league", "tagline": "high-volume betting at the London Stadium: the premier UK world-class meet" },
+  { "id": "prefontaine-classic", "name": "Prefontaine Classic (Eugene)", "tier": "diamond-league", "tagline": "america's premier track event: elite distance running and sprint wagering" },
+  { "id": "diamond-league-paris", "name": "Meeting de Paris", "tier": "diamond-league", "tagline": "post-olympic legacy betting from the heart of the french capital" },
+  { "id": "diamond-league-final-brussels", "name": "Diamond League Final (Brussels)", "tier": "finals", "tagline": "the ultimate season finale: 32 diamond trophies and massive crypto prize pools" },
+
+  /* 🥇 WORLD ATHLETICS CONTINENTAL TOUR - GOLD */
+  { "id": "kip-keino-classic", "name": "Kip Keino Classic", "country": "Kenya", "tagline": "high-altitude sprint and middle-distance drama from the home of champions" },
+  { "id": "maurie-plant-meet", "name": "Maurie Plant Meet", "country": "Australia", "tagline": "the premier stop of the oceania circuit: top-flight match wagering in Melbourne" },
+  { "id": "golden-grand-prix-tokyo", "name": "Golden Grand Prix Tokyo", "country": "Japan", "tagline": "technical excellence and elite japanese domestic match odds in Tokyo" },
+  { "id": "paavo-nurmi-games", "name": "Paavo Nurmi Games", "country": "Finland", "tagline": "the crown jewel of the nordic circuit: elite javelin and track betting" },
+  { "id": "ostrava-golden-spike", "name": "Ostrava Golden Spike", "country": "Czechia", "tagline": "one of the world's oldest and most prestigious track meets in Ostrava" },
+
+  /* 👟 WORLD ATHLETICS ROAD RUNNING & MARATHONS */
+  { "id": "london-marathon", "name": "London Marathon", "tier": "major", "tagline": "the world's most popular marathon: live now (April 26, 2026) in the UK" },
+  { "id": "berlin-marathon", "name": "Berlin Marathon", "tier": "major", "tagline": "the world's fastest course: wagering on the next sub-2 hour world record attempt" },
+  { "id": "road-running-championships-2026", "name": "World Athletics Road Running Championships", "region": "Global", "tagline": "the ultimate road battle: mile, 5km, and half-marathon world titles in Copenhagen" }
+]

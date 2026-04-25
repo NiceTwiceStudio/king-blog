@@ -1,0 +1,25 @@
+[
+  /* 🏆 INTERNATIONAL PINNACLE */
+  { "id": "rlwc-2026", "name": "Rugby League World Cup", "region": "Global", "tagline": "the 17th staging of the RLWC in Australia, NZ, and PNG – the ultimate betting event" },
+  { "id": "pacific-championships", "name": "Pacific Championships", "region": "Pacific", "tagline": "elite international clashes between the Kangaroos, Kiwis, and Pacific powerhouses" },
+  { "id": "ashes-series", "name": "The Ashes", "region": "International", "tagline": "the historic best-of-three series between England and Australia" },
+
+  /* 🇦🇺 AUSTRALIA & NEW ZEALAND (THE NRL SYSTEM) */
+  { "id": "nrl", "name": "NRL Premiership", "country": "Australia/NZ", "tagline": "the world's richest rugby league with high-octane 2026 premiership odds" },
+  { "id": "nrlw", "name": "NRLW", "country": "Australia/NZ", "tagline": "premier women's rugby league wagering from the world-leading NRLW circuit" },
+  { "id": "state-of-origin", "name": "State of Origin", "country": "Australia", "tagline": "mate against mate: the brutal three-game series between NSW and Queensland" },
+  { "id": "nsw-cup", "name": "NSW Cup", "country": "Australia", "tagline": "elite second-tier betting from the New South Wales premier feeder league" },
+  { "id": "queensland-cup", "name": "Queensland Cup", "country": "Australia", "tagline": "high-level QLD reserve grade wagering and match results" },
+
+  /* 🇬🇧 UNITED KINGDOM & FRANCE (THE RFL SYSTEM) */
+  { "id": "super-league", "name": "Super League", "country": "UK/France", "tagline": "the expanded 14-team elite european circuit with professional crypto odds" },
+  { "id": "challenge-cup", "name": "Challenge Cup", "country": "UK/France", "tagline": "the historic knockout tournament culminating at Wembley Stadium" },
+  { "id": "rfl-championship", "name": "RFL Championship", "country": "UK/France", "tagline": "the unified second-tier professional league with high-value match markets" },
+  { "id": "ncrl", "name": "National Community Rugby League", "country": "UK", "tagline": "the newly launched 2026 unified pyramid for amateur and semi-pro league" },
+
+  /* 🌍 EMERGING & REGIONAL POWERHOUSES */
+  { "id": "png-digicel-cup", "name": "Digicel Cup", "country": "Papua New Guinea", "tagline": "passionate semi-pro wagering from the world's only nation where league is the #1 sport" },
+  { "id": "elite-1-france", "name": "Elite 1", "country": "France", "tagline": "france's premier domestic championship and primary feeder for the Catalans" },
+  { "id": "usarl", "name": "USA Rugby League", "country": "USA", "tagline": "professional gridiron-crossover betting from the rising american league" },
+  { "id": "nzrl-premiership", "name": "NZRL National Premiership", "country": "New Zealand", "tagline": "top-flight domestic kiwi league match betting and regional odds" }
+]

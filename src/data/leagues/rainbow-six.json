@@ -1,0 +1,23 @@
+[
+  /* 🏆 THE GLOBAL PINNACLE (S-TIER) */
+  { "id": "six-invitational-2026", "name": "Six Invitational 2026", "location": "Paris, France", "date": "Feb 13-15, 2026", "tagline": "Recap the World Championship at the Adidas Arena: where the elite lifted the hammer in Paris" },
+  { "id": "six-invitational-2027", "name": "Six Invitational 2027", "location": "Brazil", "date": "Feb 2027", "tagline": "The road to Brazil begins: the 2027 World Championship returns to the home of the most passionate fans" },
+  { "id": "blast-r6-major-slc", "name": "BLAST R6 Major Salt Lake City", "location": "USA", "date": "May 8-17, 2026", "tagline": "Upcoming in May: 16 teams descend on Utah for the first Major trophy of 2026" },
+  { "id": "blast-r6-major-japan", "name": "BLAST R6 Major Japan", "location": "Japan", "date": "Nov 6-15, 2026", "tagline": "The Autumn finale: high-stakes technical play at the second global Major of the year" },
+  { "id": "esports-world-cup-2026-r6", "name": "Esports World Cup 2026", "location": "Riyadh, Saudi Arabia", "date": "Aug 4-14, 2026", "prize": "$2,000,000", "tagline": "The massive mid-season invitational: featuring the world's richest R6 prize pool" },
+
+  /* 💎 TIER 1 - REGIONAL STAGE LEAGUES */
+  { "id": "vct-na-league-s1", "name": "North America League Stage 1", "region": "NA", "date": "May 1 - June 1, 2026", "tagline": "The home of aggressive entry: elite NA wagering as Stage 1 league play kicks off in May" },
+  { "id": "vct-eu-mena-league-s1", "name": "Europe MENA League Stage 1", "region": "EMEA", "date": "May 1 - June 1, 2026", "tagline": "Europe's tactical masterclass: the premier circuit featuring Fnatic, G2, and Wolves" },
+  { "id": "vct-sa-league-s1", "name": "South America League Stage 1", "region": "LATAM", "date": "May 1 - June 1, 2026", "tagline": "The soul of Siege: high-octane professional play from the Brazilian and LATAM giants" },
+  { "id": "cn-league-2026-kickoff", "name": "CN League 2026 - Kickoff", "location": "China", "status": "LIVE", "date": "Apr 10-26, 2026", "tagline": "Live Now: the final weekend in China to decide the seeds for Salt Lake City" },
+
+  /* 🥈 TIER 2 - CHALLENGERS & COMMUNITY */
+  { "id": "r6-north-rainbow-rumble", "name": "R6 North Rainbow Rumble", "region": "North Europe", "date": "Apr 11 - May 3, 2026", "tagline": "The premier Tier 2 European circuit: high-frequency match wagering and qualifying action" },
+  { "id": "rei-dos-mapas-2026", "name": "Rei dos Mapas (King of Maps)", "country": "Brazil", "date": "Apr 26 - May 3, 2026", "tagline": "Starts Tomorrow: Brazil's most famous community-to-pro transition tournament" },
+  { "id": "liga-start-2026", "name": "Liga START Brazil", "country": "Brazil", "date": "May-Aug 2026", "tagline": "The massive grassroots feeder for the South America League" },
+
+  /* 🥉 TIER 3 - GRASSROOTS & SPECIAL */
+  { "id": "hellenic-legends-spring-26", "name": "Hellenic Legends League", "country": "Greece", "date": "Mar-May 2026", "tagline": "Live Now: the premier professional circuit for the Greek Siege community" },
+  { "id": "r6-central-combine-2026", "name": "R6 Central Combine", "region": "Europe", "date": "July 2026", "tagline": "The summer bridge for semi-pro and aspiring European teams" }
+]

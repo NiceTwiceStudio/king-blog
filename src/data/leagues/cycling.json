@@ -1,0 +1,29 @@
+[
+  /* 🏆 THE GRAND TOURS (THE "MAJORS") */
+  { "id": "giro-d-italia", "name": "Giro d’Italia", "country": "Italy", "tagline": "the fight for the Maglia Rosa: three weeks of brutal italian climbing and drama" },
+  { "id": "tour-de-france", "name": "Tour de France", "country": "France", "tagline": "the world's biggest race: the pinnacle of professional cycling and yellow jersey glory" },
+  { "id": "la-vuelta", "name": "La Vuelta Ciclista a España", "country": "Spain", "tagline": "the season's final grand tour: explosive steep climbs and intense spanish heat" },
+
+  /* 🏛️ THE FIVE MONUMENTS (HISTORIC ONE-DAY CLASSICS) */
+  { "id": "milano-sanremo", "name": "Milano-Sanremo", "country": "Italy", "tagline": "the 'Classicissima': the longest professional one-day race and a sprinters' dream" },
+  { "id": "ronde-van-vlaanderen", "name": "Tour of Flanders", "country": "Belgium", "tagline": "cobbled bergs and belgian passion: the ultimate test of the 'Flandriens'" },
+  { "id": "paris-roubaix", "name": "Paris-Roubaix", "country": "France", "tagline": "the 'Hell of the North': brutal cobbles, dust, and the iconic velodrome finish" },
+  { "id": "liege-bastogne-liege", "name": "Liège-Bastogne-Liège", "country": "Belgium", "tagline": "the 'Old Lady': the oldest and most climbing-heavy monument of the spring" },
+  { "id": "il-lombardia", "name": "Il Lombardia", "country": "Italy", "tagline": "the 'Race of the Falling Leaves': the final monument and a climbers' autumn classic" },
+
+  /* 🗓️ MAJOR STAGE RACES (UCI WORLDTOUR) */
+  { "id": "paris-nice", "name": "Paris-Nice", "country": "France", "tagline": "the 'Race to the Sun': the first major indicator of Grand Tour form" },
+  { "id": "tirreno-adriatico", "name": "Tirreno-Adriatico", "country": "Italy", "tagline": "the 'Race of the Two Seas': elite preparation for the spring classics and Giro" },
+  { "id": "tour-de-suisse", "name": "Tour de Suisse", "country": "Switzerland", "tagline": "high-altitude alpine racing: the final major tune-up for the Tour de France" },
+  { "id": "tour-de-pologne", "name": "Tour de Pologne", "country": "Poland", "tagline": "the premier worldtour stage race in central and eastern europe" },
+  { "id": "uae-tour", "name": "UAE Tour", "country": "UAE", "tagline": "the worldtour season's early desert showdown for sprinters and climbers" },
+
+  /* 🚺 WOMEN'S WORLDTOUR (ELITE) */
+  { "id": "tour-de-france-femmes", "name": "Tour de France Femmes", "country": "France", "tagline": "the premier women's stage race: global superstars battling for the yellow jersey" },
+  { "id": "giro-d-italia-women", "name": "Giro d’Italia Women", "country": "Italy", "tagline": "italy's most prestigious professional women's stage race" },
+  { "id": "vuelta-femenina", "name": "La Vuelta Femenina", "country": "Spain", "tagline": "the opening grand tour of the women's season with elite mountain stages" },
+
+  /* 🌍 INTERNATIONAL CHAMPIONSHIPS */
+  { "id": "uci-road-world-championships", "name": "UCI Road World Championships", "region": "Global", "tagline": "nation vs nation: the battle for the rainbow jersey in Montreal 2026" },
+  { "id": "european-road-championships", "name": "UEC European Road Championships", "region": "Europe", "tagline": "continental pride: the fight for the european blue and white jersey" }
+]

@@ -1,0 +1,28 @@
+[
+  { "id": "nfl", "name": "NFL", "country": "USA", "tagline": "the world's premier american football league with elite crypto betting markets" },
+  { "id": "ncaa-football", "name": "NCAA College Football", "country": "USA", "tagline": "high-volume wagering on FBS, FCS, and the road to the National Championship" },
+  { "id": "ufl", "name": "UFL", "country": "USA", "tagline": "bet on the unified spring league featuring the best of the USFL and XFL" },
+  { "id": "cfl", "name": "CFL", "country": "Canada", "tagline": "exciting 3-down canadian football wagering with unique rules and high scoring" },
+  { "id": "ifl", "name": "Indoor Football League", "country": "USA", "tagline": "high-speed arena football betting with non-stop scoring action" },
+  
+  { "id": "gfl", "name": "German Football League", "country": "Germany", "tagline": "europe's strongest american football circuit with professional crypto odds" },
+  { "id": "afl-austria", "name": "Austrian Football League", "country": "Austria", "tagline": "top-tier central european american football wagering" },
+  { "id": "x-league", "name": "X-League", "country": "Japan", "tagline": "elite semi-professional american football betting from Japan" },
+  { "id": "lfa-mexico", "name": "Liga de Fútbol Americano", "country": "Mexico", "tagline": "mexico's premier professional american football league" },
+  { "id": "bfa-brazil", "name": "Liga BFA", "country": "Brazil", "tagline": "bet on the fastest-growing american football market in South America" },
+  
+  { "id": "ligue-elite", "name": "Ligue Élite", "country": "France", "tagline": "france's top-division american football match wagering" },
+  { "id": "ifl-italy", "name": "Italian Football League", "country": "Italy", "tagline": "professional gridiron action from the italian american football circuit" },
+  { "id": "bafa-premier", "name": "BAFA Premier Division", "country": "UK", "tagline": "the highest level of american football betting in the United Kingdom" },
+  { "id": "vaahteraliiga", "name": "Maple League", "country": "Finland", "tagline": "historic finnish american football wagering and match odds" },
+  { "id": "superserien", "name": "Swedish Superserien", "country": "Sweden", "tagline": "scandinavia's premier american football betting destination" },
+  { "id": "lnfa-spain", "name": "LNFA", "country": "Spain", "tagline": "spain's national league for professional american football" },
+  
+  { "id": "claf", "name": "Czech League of American Football", "country": "Czechia", "tagline": "competitive american football wagering in the czech republic" },
+  { "id": "polska-liga-futbolu", "name": "Polish Football League", "country": "Poland", "tagline": "the top flight of american football in poland" },
+  { "id": "hfl-hungary", "name": "Hungarian Football League", "country": "Hungary", "tagline": "hungary's premier domestic american football competition" },
+  { "id": "gridiron-australia", "name": "Gridiron Australia", "country": "Australia", "tagline": "full coverage of the australian national gridiron championships" },
+  
+  { "id": "ifaf-world-championship", "name": "IFAF World Championship", "country": "International", "tagline": "global national team american football at the highest level" },
+  { "id": "ifaf-european-championship", "name": "IFAF European Championship", "country": "Europe", "tagline": "the battle for supremacy in european american football" }
+]

@@ -1,0 +1,27 @@
+[
+  /* 🏆 THE TRIPLE CROWN (THE MAJORS) */
+  { "id": "world-snooker-championship", "name": "World Snooker Championship", "tier": "triple-crown", "tagline": "the ultimate test of stamina and skill at the Crucible: live now in Sheffield" },
+  { "id": "uk-championship", "name": "UK Championship", "tier": "triple-crown", "tagline": "the first major of the season and the most prestigious ranking event after the Worlds" },
+  { "id": "the-masters", "name": "The Masters", "tier": "triple-crown", "tagline": "elite invitational drama at the Alexandra Palace for the world's top 16" },
+
+  /* 🇸🇦 THE NEW BIG EVENTS (RIYADH SEASON) */
+  { "id": "saudi-arabia-masters", "name": "Saudi Arabia Snooker Masters", "tier": "ranking", "tagline": "the 'fourth major' with a massive prize pool and elite global field" },
+  { "id": "world-masters-of-snooker", "name": "Riyadh Season World Masters", "tier": "invitational", "tagline": "featuring the 'Golden Ball' and the hunt for the 167 maximum break" },
+
+  /* 🇨🇳 THE CHINA SWING (HIGH VOLUME BETTING) */
+  { "id": "shanghai-masters", "name": "Shanghai Masters", "tier": "invitational", "tagline": "the premier invitational event in China featuring the top-ranked stars" },
+  { "id": "wuhan-open", "name": "Wuhan Open", "tier": "ranking", "tagline": "high-stakes ranking action from the heart of China's snooker boom" },
+  { "id": "international-championship", "name": "International Championship", "tier": "ranking", "tagline": "one of the highest prize-money ranking events outside of the UK" },
+  { "id": "world-open-snooker", "name": "World Open", "tier": "ranking", "tagline": "elite ranking tournament match wagering from Yushan, China" },
+
+  /* 🏛️ THE HOME NATIONS SERIES */
+  { "id": "english-open", "name": "English Open", "tier": "home-nations", "tagline": "the battle for the Steve Davis Trophy in the heart of Essex" },
+  { "id": "northern-ireland-open", "name": "Northern Ireland Open", "tier": "home-nations", "tagline": "competing for the Alex Higgins Trophy in the electric atmosphere of Belfast" },
+  { "id": "scottish-open", "name": "Scottish Open", "tier": "home-nations", "tagline": "top-tier snooker wagering for the Stephen Hendry Trophy in Edinburgh" },
+  { "id": "welsh-open", "name": "Welsh Open", "tier": "home-nations", "tagline": "the longest-running tournament in the Home Nations series for the Ray Reardon Trophy" },
+
+  /* ⚡ SPECIAL FORMATS & SERIES */
+  { "id": "snooker-shoot-out", "name": "Snooker Shoot Out", "tier": "special", "tagline": "the world's fastest snooker format: 10-minute frames and a shot clock" },
+  { "id": "championship-league", "name": "Championship League", "tier": "league", "tagline": "high-frequency match wagering: a daily betting paradise from Leicester" },
+  { "id": "tour-championship", "name": "Tour Championship", "tier": "finals", "tagline": "the elite season finale for the top 8 players on the one-year list" }
+]

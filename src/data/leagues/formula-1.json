@@ -1,0 +1,29 @@
+[
+  { "id": "australian-gp", "name": "Australian Grand Prix", "circuit": "Albert Park", "region": "Asia-Pacific", "tagline": "the high-speed season opener in Melbourne with elite crypto betting lines" },
+  { "id": "chinese-gp", "name": "Chinese Grand Prix", "circuit": "Shanghai International Circuit", "region": "Asia-Pacific", "tagline": "bet on the first sprint weekend of the 2026 season in Shanghai" },
+  { "id": "japanese-gp", "name": "Japanese Grand Prix", "circuit": "Suzuka", "region": "Asia-Pacific", "tagline": "technical wagering on the iconic figure-eight circuit in Japan" },
+  
+  { "id": "miami-gp", "name": "Miami Grand Prix", "circuit": "Miami International Autodrome", "region": "Americas", "tagline": "high-stakes crypto betting on the glamour-filled Miami street circuit" },
+  { "id": "canadian-gp", "name": "Canadian Grand Prix", "circuit": "Circuit Gilles Villeneuve", "region": "Americas", "tagline": "unpredictable weather and wall-to-wall action in Montreal" },
+  
+  { "id": "monaco-gp", "name": "Monaco Grand Prix", "circuit": "Circuit de Monaco", "region": "Europe", "tagline": "the crown jewel of F1: high-precision betting on the streets of Monte Carlo" },
+  { "id": "barcelona-gp", "name": "Barcelona-Catalunya Grand Prix", "circuit": "Circuit de Barcelona-Catalunya", "region": "Europe", "tagline": "the classic european testing ground with deep technical betting markets" },
+  { "id": "austrian-gp", "name": "Austrian Grand Prix", "circuit": "Red Bull Ring", "region": "Europe", "tagline": "fast-paced lap times and championship drama in the Styrian mountains" },
+  { "id": "british-gp", "name": "British Grand Prix", "circuit": "Silverstone", "region": "Europe", "tagline": "historic wagering at the home of british motor racing" },
+  { "id": "belgian-gp", "name": "Belgian Grand Prix", "circuit": "Spa-Francorchamps", "region": "Europe", "tagline": "bet on the world's most beautiful circuit through the Ardennes forest" },
+  { "id": "hungarian-gp", "name": "Hungarian Grand Prix", "circuit": "Hungaroring", "region": "Europe", "tagline": "tactical 'Monaco without walls' match betting in Budapest" },
+  { "id": "dutch-gp", "name": "Dutch Grand Prix", "circuit": "Zandvoort", "region": "Europe", "tagline": "the final Dutch GP in history: bet on the orange wall at Zandvoort" },
+  { "id": "italian-gp", "name": "Italian Grand Prix", "circuit": "Monza", "region": "Europe", "tagline": "the temple of speed: high-velocity crypto wagering in Italy" },
+  { "id": "spanish-gp-madrid", "name": "Spanish Grand Prix (Madrid)", "circuit": "Madring", "region": "Europe", "tagline": "the historic debut of the Madrid street circuit as the final European race" },
+
+  { "id": "azerbaijan-gp", "name": "Azerbaijan Grand Prix", "circuit": "Baku City Circuit", "region": "Flyaway", "tagline": "high-octane street racing and Saturday showdown betting in Baku" },
+  { "id": "singapore-gp", "name": "Singapore Grand Prix", "circuit": "Marina Bay", "region": "Asia-Pacific", "tagline": "the ultimate physical challenge: night race betting in Singapore" },
+  
+  { "id": "united-states-gp", "name": "United States Grand Prix", "circuit": "COTA", "region": "Americas", "tagline": "american horsepower and tactical wagering from Austin, Texas" },
+  { "id": "mexico-city-gp", "name": "Mexico City Grand Prix", "circuit": "Autodromo Hermanos Rodriguez", "region": "Americas", "tagline": "high-altitude racing and passionate betting in Mexico" },
+  { "id": "sao-paulo-gp", "name": "São Paulo Grand Prix", "circuit": "Interlagos", "region": "Americas", "tagline": "legendary brazilian rain drama and sprint finish match odds" },
+  { "id": "las-vegas-gp", "name": "Las Vegas Grand Prix", "circuit": "Las Vegas Strip Circuit", "region": "Americas", "tagline": "Saturday night fever: high-limit betting under the lights of the Strip" },
+  
+  { "id": "qatar-gp", "name": "Qatar Grand Prix", "circuit": "Lusail", "region": "Middle East", "tagline": "penultimate desert showdown on the high-speed Lusail circuit" },
+  { "id": "abu-dhabi-gp", "name": "Abu Dhabi Grand Prix", "circuit": "Yas Marina", "region": "Middle East", "tagline": "the grand finale: crown the 2026 champion at Yas Island" }
+]

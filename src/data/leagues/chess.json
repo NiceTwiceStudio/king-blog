@@ -1,0 +1,37 @@
+[
+  /* 🏆 INTERNATIONAL CLUB & TEAM COMPETITIONS */
+  { "id": "european-club-cup", "name": "European Club Cup", "region": "Europe", "tagline": "the world's strongest club chess championship featuring elite grandmaster lineups" },
+  { "id": "european-womens-club-cup", "name": "European Women's Club Cup", "region": "Europe", "tagline": "premier continental team chess wagering for women's professional clubs" },
+  { "id": "asian-club-cup", "name": "Asian Club Cup", "region": "Asia", "tagline": "the elite tier of club chess betting across the asian continent" },
+  { "id": "pro-chess-league", "name": "PRO Chess League", "region": "Global/Online", "tagline": "fast-paced global franchise chess league betting with rapid time controls" },
+  
+  /* 🇩🇪 GERMANY - THE SCHACHBUNDESLIGA */
+  { "id": "schachbundesliga", "name": "Schachbundesliga", "country": "Germany", "tagline": "bet on the strongest national chess league in the world with elite GM boards" },
+  { "id": "schachbundesliga-2", "name": "Schachbundesliga 2", "country": "Germany", "tagline": "competitive second-division german chess betting and promotion battles" },
+
+  /* 🇫🇷 FRANCE / 🇪🇸 SPAIN / 🇮🇹 ITALY / 🇬🇧 UK */
+  { "id": "top-16-france", "name": "Top 16 France", "country": "France", "tagline": "france's premier national team chess championship match wagering" },
+  { "id": "division-honor-spain", "name": "División de Honor", "country": "Spain", "tagline": "elite spanish club chess betting featuring world-class international talent" },
+  { "id": "serie-a-italy-chess", "name": "Serie A Scacchi", "country": "Italy", "tagline": "italy's top-tier professional chess league and championship odds" },
+  { "id": "4ncl-uk", "name": "4NCL", "country": "UK", "tagline": "the premier four-nations chess league wagering in the united kingdom" },
+
+  /* 🇳🇱 NETHERLANDS / 🇨🇭 SWITZERLAND / 🇵🇱 POLAND / 🇨🇿 CZECHIA */
+  { "id": "meesterklasse", "name": "Meesterklasse", "country": "Netherlands", "tagline": "the highest level of domestic club chess betting in the Netherlands" },
+  { "id": "nationalliga-a-swiss", "name": "Nationalliga A", "country": "Switzerland", "tagline": "elite swiss chess league wagering and professional match results" },
+  { "id": "ekstraliga-poland", "name": "Ekstraliga Szachowa", "country": "Poland", "tagline": "poland's elite-tier chess league with some of the strongest GM averages" },
+  { "id": "czech-extraliga-chess", "name": "Czech Extraliga", "country": "Czechia", "tagline": "high-stakes professional chess betting from the czech republic league" },
+
+  /* 🇮🇳 INDIA / 🇨🇳 CHINA / 🇷🇺 RUSSIA */
+  { "id": "china-chess-league", "name": "China Chess League", "country": "China", "tagline": "one of the world's most elite domestic chess leagues by average rating" },
+  { "id": "russian-team-championship", "name": "Russian Team Championship", "country": "Russia", "tagline": "historic and high-talent russian club chess wagering markets" },
+  { "id": "india-national-championship", "name": "National Chess Championship India", "country": "India", "tagline": "bet on the rising power of indian chess in national team competitions" },
+
+  /* 🌍 MAJOR INDIVIDUAL TOURNAMENTS (THE "GRAND SLAMS") */
+  { "id": "world-chess-championship", "name": "World Chess Championship", "tier": "individual", "tagline": "the pinnacle of chess: the biennial battle for the world title" },
+  { "id": "candidates-tournament", "name": "Candidates Tournament", "tier": "individual", "tagline": "the high-stakes tournament to determine the world championship challenger" },
+  { "id": "tata-steel-chess", "name": "Tata Steel Chess", "tier": "individual", "tagline": "the 'Wimbledon of Chess' with world-class masters and challengers" },
+  { "id": "fide-world-cup", "name": "FIDE World Cup", "tier": "individual", "tagline": "massive knockout tournament chess betting with qualifying spots at stake" },
+  { "id": "grand-chess-tour", "name": "Grand Chess Tour", "tier": "individual", "tagline": "elite multi-event tour featuring the world's top grandmasters" },
+  { "id": "norway-chess", "name": "Norway Chess", "tier": "individual", "tagline": "high-stakes super-tournament with unique armageddon tiebreak betting" },
+  { "id": "sinquefield-cup", "name": "Sinquefield Cup", "tier": "individual", "tagline": "the premier american super-tournament and crown jewel of the Grand Chess Tour" }
+]

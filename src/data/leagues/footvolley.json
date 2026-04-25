@@ -1,0 +1,20 @@
+[
+  /* 🏆 THE GLOBAL & CONTINENTAL PINNACLE */
+  { "id": "efvl-european-championship", "name": "European Footvolley Championship (EFC)", "region": "Europe", "tagline": "continental supremacy: featuring the women's 2026 finale in Graz and the men's elite circuit" },
+  { "id": "world-footvolley-tour", "name": "World Footvolley Tour", "region": "Global", "tagline": "the premier global tour bringing the world's best duos to iconic beach venues" },
+  { "id": "footvolley-league-of-champions", "name": "League of Champions", "region": "Europe", "tagline": "a high-frequency club-based tour with stops in Stockholm, Barcelona, and Graz" },
+
+  /* 🇧🇷 BRAZIL - THE SPIRITUAL HOME */
+  { "id": "liga-nacional-futevolei", "name": "Liga Nacional de Futevôlei", "country": "Brazil", "tagline": "the world's most competitive domestic league: where legends of the sand are born" },
+  { "id": "circuito-brasileiro-futevolei", "name": "Circuito Brasileiro de Futevôlei", "country": "Brazil", "tagline": "high-stakes individual and duo wagering on the deepest talent pool in the world" },
+
+  /* 🇪🇺 EUROPEAN DOMESTIC POWERHOUSES */
+  { "id": "israeli-footvolley-league", "name": "Israeli Footvolley League", "country": "Israel", "tagline": "one of the world's most organized professional circuits with massive domestic betting volume" },
+  { "id": "german-footvolley-tour", "name": "German Footvolley Tour", "country": "Germany", "tagline": "the premier central european circuit featuring technical excellence and elite match odds" },
+  { "id": "portuguese-footvolley-tour", "name": "Nacional de Futevôlei Portugal", "country": "Portugal", "tagline": "traditional powerhouse of european footvolley with elite duo matchups" },
+  { "id": "austrian-footvolley-tour", "name": "Footvolley Austria Tour", "country": "Austria", "tagline": "home of the 2026 Women's EFC: a rapidly growing hub for professional footvolley" },
+
+  /* 🌏 EMERGING & REGIONAL TOURS */
+  { "id": "footvolley-usa-tour", "name": "Footvolley US Tour", "country": "USA", "tagline": "stadium-style beach wagering: bringing the brazilian flair to the american coasts" },
+  { "id": "uae-footvolley-challenge", "name": "UAE Footvolley Challenge", "country": "UAE", "tagline": "high-prize pool invitational events in Dubai and Abu Dhabi" }
+]

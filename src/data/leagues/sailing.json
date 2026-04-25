@@ -1,0 +1,23 @@
+[
+  /* 🏆 THE PINNACLE - AMERICA'S CUP CYCLE */
+  { "id": "americas-cup-38", "name": "38th America's Cup", "region": "Global", "tagline": "the world's oldest trophy: foiling AC75 match racing in Naples (2027) and Preliminary Regattas (2026)" },
+  { "id": "ac-preliminary-regatta-sardinia", "name": "America's Cup Preliminary Regatta Sardinia", "country": "Italy", "tagline": "the 2026 season opener: high-speed AC40 fleet racing in Cagliari (May 21-24)" },
+  { "id": "youth-women-americas-cup", "name": "Youth & Women's America's Cup", "region": "Global", "tagline": "the elite pathway for the next generation of foiling superstars" },
+
+  /* 🦅 SAILGP - THE FORMULA 1 OF SAILING */
+  { "id": "sailgp-season-6", "name": "SailGP Season 6", "region": "Global", "tagline": "the world's most exciting racing: 50-knot F50 catamarans in an 11-month global tour" },
+  { "id": "sailgp-bermuda", "name": "Apex Group Bermuda Sail Grand Prix", "country": "Bermuda", "tagline": "upcoming high-stakes wagering on the crystal waters of Bermuda (May 9-10, 2026)" },
+  { "id": "sailgp-new-york", "name": "Mubadala New York Sail Grand Prix", "country": "USA", "tagline": "stadium-style foiling drama on the Hudson River (May 30-31, 2026)" },
+
+  /* 🌊 OFFSHORE & OCEAN RACING */
+  { "id": "the-ocean-race-europe", "name": "The Ocean Race Europe", "region": "Europe", "tagline": "elite IMOCA foilers racing around the european continent" },
+  { "id": "vendee-globe", "name": "Vendée Globe", "region": "Global", "tagline": "the ultimate solo challenge: non-stop, unassisted round-the-world racing" },
+  { "id": "rorc-seasons-points", "name": "RORC Season's Points Championship", "region": "Global", "tagline": "the world's largest offshore racing series featuring the Cervantes and Morgan Cups" },
+
+  /* 🏛️ HISTORIC REGATTAS & GRAND PRIX */
+  { "id": "cowes-week", "name": "Cowes Week", "country": "UK", "tagline": "the bicentenary edition (1826-2026): the world's oldest and largest sailing regatta" },
+  { "id": "rolex-sydney-hobart", "name": "Rolex Sydney Hobart Yacht Race", "country": "Australia", "tagline": "the brutal boxing day classic: high-seas wagering from Sydney to Hobart" },
+  { "id": "st-barths-bucket", "name": "St. Barths Bucket Regatta", "country": "St. Barths", "tagline": "superyacht racing at its most glamorous: the caribbean's premier social regatta" },
+  { "id": "antigua-sailing-week", "name": "Antigua Sailing Week", "country": "Antigua", "tagline": "live now (April 22-26, 2026): five days of world-class caribbean racing" },
+  { "id": "copa-del-rey-mapfre", "name": "Copa del Rey MAPFRE", "country": "Spain", "tagline": "the mediterranean's most prestigious multi-class regatta in Palma" }
+]
