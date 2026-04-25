@@ -1,22 +1,224 @@
 [
   {
-    "id": "stake",
-    "name": "Stake",
-    "bonus": "200% up to $1000",
+    "id": "shuffle-casino",
+    "name": "Shuffle.com",
+    "affiliate_link": "https://shuffle.com?r=betkingblog",
     "rating": 4.8,
-    "supportedCryptos": ["btc", "eth", "sol", "doge"],
-    "supportedGames": ["cs2", "valorant", "slots"],
-    "allowedCountries": ["greece", "canada", "germany"],
-    "link": "https://stake.com/?c=your-id"
+    "review_summary": "The 2026 industry leader in crypto gambling. Shuffle offers a seamless blend of original games, thousands of slots, and a world-class sportsbook with the fastest settlement times in the industry.",
+    "welcome_bonus": {
+      "match_percentage": "100%",
+      "max_bonus": "$1,000",
+      "min_deposit": "$1",
+      "wagering": "35x (Deposit + Bonus)",
+      "tagline": "Exclusive 2026 Welcome Offer: 100% Deposit Match up to $1,000"
+    },
+    "key_features": [
+      "Provably Fair Shuffle Originals (Dice, Plinko, Limbo)",
+      "Instant Rakeback & Weekly $100,000 Race",
+      "Native $SHFL Token Integration & Staking Rewards",
+      "Direct Crypto Purchase via MoonPay & Swapped"
+    ],
+    "payment_methods": [
+      { "name": "Bitcoin", "symbol": "BTC", "type": "Native" },
+      { "name": "Ethereum", "symbol": "ETH", "type": "Native" },
+      { "name": "Litecoin", "symbol": "LTC", "type": "Native" },
+      { "name": "Dogecoin", "symbol": "DOGE", "type": "Meme" },
+      { "name": "Shuffle Token", "symbol": "SHFL", "type": "Platform Native" },
+      { "name": "Tether", "symbol": "USDT", "type": "Stablecoin" },
+      { "name": "USD Coin", "symbol": "USDC", "type": "Stablecoin" },
+      { "name": "Ripple", "symbol": "XRP", "type": "Native" },
+      { "name": "Tron", "symbol": "TRX", "type": "Native" },
+      { "name": "Solana", "symbol": "SOL", "type": "Native" },
+      { "name": "Shiba Inu", "symbol": "SHIB", "type": "Meme" },
+      { "name": "Binance Coin", "symbol": "BNB", "type": "Native" },
+      { "name": "Toncoin", "symbol": "TON", "type": "Telegram Native" },
+      { "name": "Bonk", "symbol": "BONK", "type": "Meme" },
+      { "name": "Dogwifhat", "symbol": "WIF", "type": "Meme" },
+      { "name": "Polygon", "symbol": "POL", "type": "Layer 2" },
+      { "name": "Avalanche", "symbol": "AVAX", "type": "Native" }
+    ],
+    "allowed_regions": {
+      "europe": ["Albania", "Andorra", "Austria", "Belgium", "Bulgaria", "Croatia", "Denmark", "Estonia", "Finland", "France", "Greece", "Hungary", "Ireland", "Italy", "Norway", "Poland", "Romania", "Serbia", "Sweden", "Switzerland", "Ukraine"],
+      "americas": ["Argentina", "Brazil", "Canada (Excl. Ontario)", "Chile", "Colombia", "Mexico", "Peru", "Uruguay"],
+      "asia_pacific": ["India", "Indonesia", "Japan", "Malaysia", "New Zealand", "Philippines", "South Korea", "Thailand", "Vietnam"],
+      "africa": ["Egypt", "Ghana", "Nigeria", "South Africa"]
+    },
+    "restricted_countries": ["USA", "UK", "Netherlands", "Germany", "Spain", "Australia", "Portugal", "Curaçao"],
+    "license": "Curaçao Gaming Control Board (Natural Nine B.V.)",
+    "withdrawal_speed": "Instant (On-chain processing)"
   },
   {
-    "id": "roobet",
+    "id": "500-casino",
+    "name": "500 Casino",
+    "affiliate_link": "https://500.casino/r/BETKINGBLOG",
+    "rating": 4.9,
+    "review_summary": "The ultimate hybrid of skin gambling and professional crypto wagering. 500 Casino (formerly CSGO500) bridges the gap between your Steam inventory and high-stakes casino action.",
+    "welcome_bonus": {
+      "match_percentage": "100%",
+      "max_bonus": "$1,000",
+      "min_deposit": "$20",
+      "wagering": "40x (Bonus)",
+      "tagline": "Skin & Crypto Combo: 100% Match up to $1k + 50 Free Spins"
+    },
+    "key_features": [
+      "Instant CS2 & Rust Skin Deposits (P2P Market)",
+      "Vast Inventory for Skin Withdrawals",
+      "The 'Baron' VIP Club: High-tier rakeback and rewards",
+      "Kinguin Gift Card support for instant balance top-ups"
+    ],
+    "payment_methods": [
+      { "name": "CS2 Skins", "symbol": "CS2", "type": "Steam P2P" },
+      { "name": "Rust Skins", "symbol": "RUST", "type": "Steam P2P" },
+      { "name": "Kinguin Gift Cards", "symbol": "KINGUIN", "type": "Digital Card" },
+      { "name": "Bitcoin", "symbol": "BTC", "type": "Native" },
+      { "name": "Ethereum", "symbol": "ETH", "type": "Native" },
+      { "name": "Litecoin", "symbol": "LTC", "type": "Native" },
+      { "name": "Solana", "symbol": "SOL", "type": "Native" },
+      { "name": "Tether", "symbol": "USDT", "type": "Stablecoin" },
+      { "name": "USD Coin", "symbol": "USDC", "type": "Stablecoin" },
+      { "name": "Binance Coin", "symbol": "BNB", "type": "Native" },
+      { "name": "XRP", "symbol": "XRP", "type": "Native" },
+      { "name": "Cardano", "symbol": "ADA", "type": "Native" },
+      { "name": "Avalanche", "symbol": "AVAX", "type": "Native" },
+      { "name": "Polygon", "symbol": "POL", "type": "Layer 2" },
+      { "name": "Dogecoin", "symbol": "DOGE", "type": "Meme" },
+      { "name": "Visa/Mastercard", "symbol": "CARD", "type": "Fiat (Buy Crypto)" },
+      { "name": "Apple Pay/Google Pay", "symbol": "MOBILE", "type": "Instant Fiat" },
+      { "name": "RevolutPay", "symbol": "REV", "type": "E-Wallet" },
+      { "name": "Skrill", "symbol": "SKRILL", "type": "E-Wallet" }
+    ],
+    "allowed_regions": {
+      "europe": ["Germany", "Sweden", "Ireland", "Norway", "Portugal", "Bulgaria", "Romania", "Finland", "Poland", "Denmark"],
+      "americas": ["Canada", "Brazil", "Mexico", "Chile", "Peru"],
+      "asia_pacific": ["Japan", "South Korea", "Thailand", "Philippines", "New Zealand"],
+      "africa": ["South Africa", "Nigeria", "Kenya"]
+    },
+    "restricted_countries": ["USA", "France", "Netherlands", "UK", "Australia", "Curaçao", "Israel"],
+    "license": "Curaçao Gaming License (No. 8048/JAZ)",
+    "withdrawal_options": ["Crypto", "CS2 Skins (P2P)"],
+    "withdrawal_speed": "Instant (P2P & Crypto Priority)"
+  },
+  {
+    "id": "stake-casino",
+    "name": "Stake.com",
+    "affiliate_link": "https://stake.com/?c=betkingblog",
+    "rating": 4.7,
+    "review_summary": "The global benchmark for crypto betting. Stake combines an elite in-house 'Originals' suite with the most comprehensive sportsbook in the industry. Its wager-free VIP rewards are the gold standard for player retention.",
+    "welcome_bonus": {
+      "match_percentage": "200%",
+      "max_bonus": "$3,000",
+      "min_deposit": "$50",
+      "wagering": "40x (Deposit + Bonus)",
+      "tagline": "Exclusive 2026 Power-Up: 200% Deposit Match up to $3,000"
+    },
+    "key_features": [
+      "Industry-Leading 'Stake Originals' (Dice, Crash, Plinko, Limbo)",
+      "$100,000 Daily Wagering Race & $75,000 Weekly Raffle",
+      "Wager-Free VIP Level-up Bonuses & Monthly Drops",
+      "Official Partner of UFC and Sauber Formula 1 Team"
+    ],
+    "payment_methods": [
+      { "name": "Bitcoin", "symbol": "BTC", "type": "Native" },
+      { "name": "Ethereum", "symbol": "ETH", "type": "Native" },
+      { "name": "Litecoin", "symbol": "LTC", "type": "Native" },
+      { "name": "Dogecoin", "symbol": "DOGE", "type": "Meme" },
+      { "name": "Tether", "symbol": "USDT", "type": "Stablecoin" },
+      { "name": "USD Coin", "symbol": "USDC", "type": "Stablecoin" },
+      { "name": "Solana", "symbol": "SOL", "type": "Native" },
+      { "name": "XRP", "symbol": "XRP", "type": "Native" },
+      { "name": "Binance Coin", "symbol": "BNB", "type": "Native" },
+      { "name": "Tron", "symbol": "TRX", "type": "Native" },
+      { "name": "Polygon", "symbol": "POL", "type": "Layer 2" },
+      { "name": "MoonPay / Swapped", "symbol": "FIAT", "type": "Direct Buy (Visa/MC/ApplePay)" }
+    ],
+    "allowed_regions": {
+      "europe": ["Austria", "Belgium", "Bulgaria", "Croatia", "Finland", "Greece", "Hungary", "Ireland", "Latvia", "Luxembourg", "Norway", "Poland", "Romania", "Slovakia", "Slovenia"],
+      "americas": ["Canada (Excl. Ontario)", "Brazil", "Mexico", "Chile", "Peru", "Argentina", "Colombia"],
+      "asia_pacific": ["India", "Japan", "Indonesia", "Malaysia", "Vietnam", "New Zealand"],
+      "africa": ["Nigeria", "Egypt", "South Africa", "Kenya"]
+    },
+    "restricted_countries": ["USA (Stake.us only)", "UK", "Australia", "Netherlands", "France", "Germany", "Spain", "Italy", "Ontario (Canada)", "North Korea", "Iran"],
+    "license": "Curaçao Gaming License",
+    "withdrawal_speed": "Instant (On-chain verified)"
+  },
+  {
+    "id": "roobet-casino",
     "name": "Roobet",
-    "bonus": "70 Free Spins",
+    "affiliate_link": "https://roobet.com/?ref=erased0123",
+    "rating": 4.6,
+    "review_summary": "The social heart of crypto gambling. Roobet's unique 'RooWards' system and high-energy community chat make it the preferred choice for players who value engagement and gamified loyalty rewards.",
+    "welcome_bonus": {
+      "match_percentage": "Instant RooWards",
+      "max_bonus": "Custom",
+      "min_deposit": "$10",
+      "wagering": "None (Rakeback based)",
+      "tagline": "Exclusive 2026 Access: Unlock Instant RooWards + Daily Rakeback with code: ERASED0123"
+    },
+    "key_features": [
+      "Signature Originals: Roobet Crash, Mines, and Towers",
+      "Instant RooWards: Unlock daily, weekly, and monthly cashback",
+      "VIP Personal Salons for high-limit Live Dealer play",
+      "The $100,000 Weekly Raffle: Every $500 wagered earns a ticket"
+    ],
+    "payment_methods": [
+      { "name": "Bitcoin", "symbol": "BTC", "type": "Native" },
+      { "name": "Ethereum", "symbol": "ETH", "type": "Native" },
+      { "name": "Litecoin", "symbol": "LTC", "type": "Native" },
+      { "name": "Tether", "symbol": "USDT", "type": "Stablecoin" },
+      { "name": "USD Coin", "symbol": "USDC", "type": "Stablecoin" },
+      { "name": "Swapped.com", "symbol": "FIAT", "type": "Direct Card Buy (Visa/MC/ApplePay)" }
+    ],
+    "allowed_regions": {
+      "europe": ["Ireland", "Finland", "Norway", "Greece", "Czech Republic", "Slovenia", "Ukraine"],
+      "americas": ["Canada (Excl. Ontario)", "Mexico", "Argentina", "Brazil", "Chile", "Colombia", "Peru", "Costa Rica"],
+      "asia_pacific": ["India", "Vietnam", "Philippines", "Kazakhstan", "New Zealand"],
+      "africa": ["South Africa", "Nigeria", "Kenya"]
+    },
+    "restricted_countries": ["USA", "UK", "Netherlands", "Germany", "France", "Spain", "Australia", "Ontario (Canada)", "Denmark", "Italy", "Poland", "Singapore"],
+    "license": "Curaçao Gaming License",
+    "withdrawal_speed": "Instant (Automated hot-wallet processing)"
+  },
+  {
+    "id": "bc-game-casino",
+    "name": "BC.Game",
+    "affiliate_link": "https://bc.game/i-rifilygv-n/",
     "rating": 4.5,
-    "supportedCryptos": ["btc", "eth", "ltc"],
-    "supportedGames": ["slots", "mines", "crash"],
-    "allowedCountries": ["canada", "brazil"],
-    "link": "https://roobet.com/?a=your-id"
+    "review_summary": "The king of variety. BC.Game supports over 150 cryptocurrencies and features an unmatched library of 10,000+ games. Its unique BCD (BC Dollar) ecosystem and tiered 'Recharge' bonuses make it a powerhouse for long-term loyalty.",
+    "welcome_bonus": {
+      "match_percentage": "300%",
+      "max_bonus": "$100,000 (in BCD)",
+      "min_deposit": "$10",
+      "wagering": "Dynamic (Unlocked via wagering)",
+      "tagline": "2026 Mega Offer: Up to 360% Match on your first 4 deposits"
+    },
+    "key_features": [
+      "150+ Cryptocurrencies supported including PEPE, SHIB, and BONK",
+      "500+ BC Originals: Provably Fair Crash, Plinko, and Hash Dice",
+      "Dedicated BC Game Poker: $10 No-Deposit Bonus with 'BC Shield' anti-bot tech",
+      "VIP Club: Daily 'Roll Competition' and 'Where's Coco?' bonus drops"
+    ],
+    "payment_methods": [
+      { "name": "Bitcoin", "symbol": "BTC", "type": "Native" },
+      { "name": "Ethereum", "symbol": "ETH", "type": "Native" },
+      { "name": "Tether", "symbol": "USDT", "type": "Stablecoin (Multi-network)" },
+      { "name": "Toncoin", "symbol": "TON", "type": "Telegram Native" },
+      { "name": "Pepe", "symbol": "PEPE", "type": "Meme" },
+      { "name": "Bonk", "symbol": "BONK", "type": "Meme" },
+      { "name": "Shiba Inu", "symbol": "SHIB", "type": "Meme" },
+      { "name": "Solana", "symbol": "SOL", "type": "Native" },
+      { "name": "Litecoin", "symbol": "LTC", "type": "Native" },
+      { "name": "Dogecoin", "symbol": "DOGE", "type": "Meme" },
+      { "name": "BC Dollar", "symbol": "BCD", "type": "Platform Stablecoin" },
+      { "name": "Polygon", "symbol": "POL", "type": "Layer 2" }
+    ],
+    "allowed_regions": {
+      "europe": ["Austria", "Belgium", "Bulgaria", "Croatia", "Finland", "Greece", "Ireland", "Italy", "Norway", "Poland", "Romania", "Sweden", "Switzerland"],
+      "americas": ["Canada (Excl. Ontario)", "Brazil", "Mexico", "Argentina", "Chile", "Colombia", "Peru"],
+      "asia_pacific": ["India", "Japan", "Indonesia", "Malaysia", "Philippines", "South Korea", "Thailand", "Vietnam", "New Zealand"],
+      "africa": ["Nigeria", "South Africa", "Egypt", "Ghana", "Kenya"]
+    },
+    "restricted_countries": ["USA", "UK", "Australia", "Netherlands", "France", "China", "Ontario (Canada)", "Hungary"],
+    "license": "Anjouan Gaming Authority (Primary) & Curaçao",
+    "withdrawal_speed": "1-10 Minutes (Instant for most crypto assets)"
   }
 ]

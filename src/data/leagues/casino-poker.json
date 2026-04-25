@@ -1,0 +1,16 @@
+[
+  /* 🃏 POKER: THE PROFESSIONAL TOURS */
+  { "id": "wsop-2026", "name": "World Series of Poker (WSOP)", "location": "Las Vegas, NV", "date": "May 26 - July 15, 2026", "tagline": "The 57th Annual WSOP: wagering on the Main Event and the chase for the 100+ bracelets" },
+  { "id": "wpt-season-24", "name": "World Poker Tour (WPT)", "region": "Global", "tagline": "The premier televised poker circuit: high-stakes wagering on the Mike Sexton Cup" },
+  { "id": "ept-2026", "name": "European Poker Tour (EPT)", "region": "Europe", "tagline": "Europe's richest poker tour: upcoming stops in Barcelona and Prague" },
+
+  /* 🎡 CASINO: LIVE DEALER & TABLE GAMES */
+  { "id": "live-dealer-roulette", "name": "Live Dealer Roulette", "provider": "Evolution/Pragmatic", "tagline": "Real-time physics-based wagering: Lightning, Immersive, and French variations" },
+  { "id": "blackjack-pro-series", "name": "Blackjack Pro Series", "type": "Table Game", "tagline": "The classic battle against the house: 3:2 payouts and Side Bet opportunities" },
+  { "id": "baccarat-squeeze", "name": "Baccarat Squeeze", "type": "Live Dealer", "tagline": "The high-roller favorite: elite live streaming and real-time squeeze mechanics" },
+
+  /* 🚀 MODERN CASINO: CRASH & DICE */
+  { "id": "aviator-crash", "name": "Aviator (Crash Game)", "type": "Instant Win", "tagline": "The pioneer of multiplier gaming: cash out before the plane flies away" },
+  { "id": "crypto-dice-pro", "name": "Crypto Dice Pro", "type": "Provably Fair", "tagline": "Ultra-fast betting with custom win probabilities and 99% RTP settings" },
+  { "id": "plinko-mega-win", "name": "Plinko: Mega Win", "type": "Instant Win", "tagline": "High-volatility puck-dropping: choose your risk level for massive multipliers" }
+]

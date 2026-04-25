@@ -1,10 +1,30 @@
 ---
-const navItems = [
-  { name: 'Search by Cryptocurrency', href: '#', hasSubmenu: true },
-  { name: 'Search by Game', href: '#', hasSubmenu: true },
-  { name: 'Betting Predictions', href: '#', hasSubmenu: false },
-  { name: 'More', href: '#', hasSubmenu: true },
-];
+// Import casino data to keep ratings and names synced
+import casinos from '../data/casinos.json';
+
+const cryptoMenu = {
+  mostPopular: [
+    ['Bitcoin', 'Ethereum'],
+    ['Litecoin', 'Dogecoin'],
+    ['Solana', 'TRON'],
+    ['Toncoin', 'Polygon'],
+    ['SHIB', 'PEPE']
+  ],
+  best: ['USDT', 'USDC', 'Solana', 'Ethereum', 'XRP'],
+  topPlatforms: [...casinos].sort((a, b) => b.rating - a.rating).slice(0, 5)
+};
+
+const gameMenu = {
+  mostPopular: [
+    ['Slots', 'Roulette'],
+    ['Blackjack', 'Baccarat'],
+    ['Crash', 'Plinko'],
+    ['Dice', 'Mines'],
+    ['Limbo', 'Wheel']
+  ],
+  best: ['Sports Betting', 'Esports Betting', 'Dota 2', 'CS2 Case Opening', 'World of Tanks'],
+  topPlatforms: cryptoMenu.topPlatforms
+};
 ---
 
 <header class="w-full bg-king-panel border-b border-king-border sticky top-0 z-50 font-sans">
@@ -16,24 +36,112 @@ const navItems = [
       </a>
     </div>
 
-    <nav class="hidden md:flex items-center gap-8">
-      {navItems.map((item) => (
-        <a 
-          href={item.href} 
-          class="group flex items-center gap-1.5 text-[14px] font-bold text-king-text hover:text-king-accent transition-colors duration-200 capitalize tracking-tight"
-        >
-          <span class="leading-none">{item.name}</span>
-          {item.hasSubmenu && (
-            <svg 
-              xmlns="http://www.w3.org/2000/svg" 
-              class="w-3 h-3 fill-current group-hover:text-king-accent transition-colors mt-[1px]" 
-              viewBox="0 0 256 256"
-            >
-              <path d="m213.66 101.66-80 80a8 8 0 0 1-11.32 0l-80-80A8 8 0 0 1 48 88h160a8 8 0 0 1 5.66 13.66" />
-            </svg>
-          )}
-        </a>
-      ))}
+    <nav class="hidden md:flex items-center gap-2 h-full">
+      
+      <div class="relative group h-full flex items-center">
+        <button class="flex items-center gap-1.5 px-4 h-full text-[14px] font-bold text-king-text hover:text-king-accent transition-colors duration-200 capitalize tracking-tight">
+          Search by Cryptocurrency
+          <svg xmlns="http://www.w3.org/2000/svg" class="w-3 h-3 fill-current group-hover:text-king-accent transition-transform group-hover:rotate-180" viewBox="0 0 256 256">
+            <path d="m213.66 101.66-80 80a8 8 0 0 1-11.32 0l-80-80A8 8 0 0 1 48 88h160a8 8 0 0 1 5.66 13.66" />
+          </svg>
+        </button>
+
+        <div class="absolute top-full left-0 invisible opacity-0 group-hover:visible group-hover:opacity-100 flex bg-king-panel border border-king-border p-6 rounded-b-lg shadow-2xl min-w-[700px] gap-8 transition-all duration-200">
+          
+          <div class="flex-1">
+            <h3 class="text-gray-500 text-[10px] font-bold uppercase tracking-wider mb-4 flex items-center gap-2">
+              <svg xmlns="http://www.w3.org/2000/svg" class="w-4 h-4 fill-current" viewBox="0 0 256 256"><path d="M240 56v64a8 8 0 0 1-16 0V75.31l-82.34 82.35a8 8 0 0 1-11.32 0L96 123.31l-66.34 66.35a8 8 0 0 1-11.32-11.32l72-72a8 8 0 0 1 11.32 0L136 140.69 212.69 64H168a8 8 0 0 1 0-16h64a8 8 0 0 1 8 8"/></svg>
+              Most Popular
+            </h3>
+            <div class="grid grid-cols-2 gap-x-8 gap-y-2">
+              {cryptoMenu.mostPopular.flat().map((coin) => (
+                <a href={`/crypto/${coin.toLowerCase()}`} class="text-[13px] text-king-text hover:text-king-accent transition-colors">{coin}</a>
+              ))}
+            </div>
+          </div>
+
+          <div class="w-32">
+            <h3 class="text-gray-500 text-[10px] font-bold uppercase tracking-wider mb-4 flex items-center gap-2">
+              <svg xmlns="http://www.w3.org/2000/svg" class="w-4 h-4 fill-current" viewBox="0 0 256 256"><path d="m234.29 114.85-45 38.83L203 211.75a16.4 16.4 0 0 1-24.5 17.82L128 198.49l-50.53 31.08A16.4 16.4 0 0 1 53 211.75l13.76-58.07-45-38.83A16.46 16.46 0 0 1 31.08 86l59-4.76 22.76-55.08a16.36 16.36 0 0 1 30.27 0l22.75 55.08 59 4.76a16.46 16.46 0 0 1 9.37 28.86Z"/></svg>
+              Best
+            </h3>
+            <div class="flex flex-col gap-2">
+              {cryptoMenu.best.map((coin) => (
+                <a href={`/best/${coin.toLowerCase()}`} class="text-[13px] text-king-text hover:text-king-accent transition-colors">{coin}</a>
+              ))}
+            </div>
+          </div>
+
+          <div class="w-48 border-l border-king-border pl-8">
+            <h3 class="text-gray-500 text-[10px] font-bold uppercase tracking-wider mb-4 flex items-center gap-2">
+              <svg xmlns="http://www.w3.org/2000/svg" class="w-4 h-4 fill-current" viewBox="0 0 256 256"><path d="M248 80a28 28 0 1 0-51.12 15.77l-26.79 33L146 73.4a28 28 0 1 0-36.06 0l-24.03 55.34-26.79-33a28 28 0 1 0-26.6 12L47 194.63A16 16 0 0 0 62.78 208h130.44A16 16 0 0 0 209 194.63l14.47-86.85A28 28 0 0 0 248 80M128 40a12 12 0 1 1-12 12 12 12 0 0 1 12-12M24 80a12 12 0 1 1 12 12 12 12 0 0 1-12-12m196 12a12 12 0 1 1 12-12 12 12 0 0 1-12 12"/></svg>
+              Top Platforms
+            </h3>
+            <div class="flex flex-col gap-3">
+              {cryptoMenu.topPlatforms.map((casino) => (
+                <a href={casino.affiliate_link} class="flex items-center justify-between group/item">
+                  <span class="text-[13px] text-king-text group-hover/item:text-king-accent">{casino.name}</span>
+                  <span class="text-[10px] font-bold text-king-accent bg-king-border/30 px-1.5 py-0.5 rounded">{casino.rating}</span>
+                </a>
+              ))}
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="relative group h-full flex items-center">
+        <button class="flex items-center gap-1.5 px-4 h-full text-[14px] font-bold text-king-text hover:text-king-accent transition-colors duration-200 capitalize tracking-tight">
+          Search by Game
+          <svg xmlns="http://www.w3.org/2000/svg" class="w-3 h-3 fill-current group-hover:text-king-accent transition-transform group-hover:rotate-180" viewBox="0 0 256 256">
+            <path d="m213.66 101.66-80 80a8 8 0 0 1-11.32 0l-80-80A8 8 0 0 1 48 88h160a8 8 0 0 1 5.66 13.66" />
+          </svg>
+        </button>
+
+        <div class="absolute top-full left-0 invisible opacity-0 group-hover:visible group-hover:opacity-100 flex bg-king-panel border border-king-border p-6 rounded-b-lg shadow-2xl min-w-[700px] gap-8 transition-all duration-200">
+          
+          <div class="flex-1">
+            <h3 class="text-gray-500 text-[10px] font-bold uppercase tracking-wider mb-4 flex items-center gap-2">
+              <svg xmlns="http://www.w3.org/2000/svg" class="w-4 h-4 fill-current" viewBox="0 0 256 256"><path d="M240 56v64a8 8 0 0 1-16 0V75.31l-82.34 82.35a8 8 0 0 1-11.32 0L96 123.31l-66.34 66.35a8 8 0 0 1-11.32-11.32l72-72a8 8 0 0 1 11.32 0L136 140.69 212.69 64H168a8 8 0 0 1 0-16h64a8 8 0 0 1 8 8"/></svg>
+              Most Popular
+            </h3>
+            <div class="grid grid-cols-2 gap-x-8 gap-y-2">
+              {gameMenu.mostPopular.flat().map((game) => (
+                <a href={`/game/${game.toLowerCase()}`} class="text-[13px] text-king-text hover:text-king-accent transition-colors">{game}</a>
+              ))}
+            </div>
+          </div>
+
+          <div class="w-40">
+            <h3 class="text-gray-500 text-[10px] font-bold uppercase tracking-wider mb-4 flex items-center gap-2">
+              <svg xmlns="http://www.w3.org/2000/svg" class="w-4 h-4 fill-current" viewBox="0 0 256 256"><path d="m234.29 114.85-45 38.83L203 211.75a16.4 16.4 0 0 1-24.5 17.82L128 198.49l-50.53 31.08A16.4 16.4 0 0 1 53 211.75l13.76-58.07-45-38.83A16.46 16.46 0 0 1 31.08 86l59-4.76 22.76-55.08a16.36 16.36 0 0 1 30.27 0l22.75 55.08 59 4.76a16.46 16.46 0 0 1 9.37 28.86Z"/></svg>
+              Best
+            </h3>
+            <div class="flex flex-col gap-2">
+              {gameMenu.best.map((item) => (
+                <a href={`/category/${item.toLowerCase().replace(/\s/g, '-')}`} class="text-[13px] text-king-text hover:text-king-accent transition-colors">{item}</a>
+              ))}
+            </div>
+          </div>
+
+          <div class="w-48 border-l border-king-border pl-8">
+            <h3 class="text-gray-500 text-[10px] font-bold uppercase tracking-wider mb-4 flex items-center gap-2">
+              <svg xmlns="http://www.w3.org/2000/svg" class="w-4 h-4 fill-current" viewBox="0 0 256 256"><path d="M248 80a28 28 0 1 0-51.12 15.77l-26.79 33L146 73.4a28 28 0 1 0-36.06 0l-24.03 55.34-26.79-33a28 28 0 1 0-26.6 12L47 194.63A16 16 0 0 0 62.78 208h130.44A16 16 0 0 0 209 194.63l14.47-86.85A28 28 0 0 0 248 80M128 40a12 12 0 1 1-12 12 12 12 0 0 1 12-12M24 80a12 12 0 1 1 12 12 12 12 0 0 1-12-12m196 12a12 12 0 1 1 12-12 12 12 0 0 1-12 12"/></svg>
+              Top Platforms
+            </h3>
+            <div class="flex flex-col gap-3">
+              {gameMenu.topPlatforms.map((casino) => (
+                <a href={casino.affiliate_link} class="flex items-center justify-between group/item">
+                  <span class="text-[13px] text-king-text group-hover/item:text-king-accent">{casino.name}</span>
+                  <span class="text-[10px] font-bold text-king-accent bg-king-border/30 px-1.5 py-0.5 rounded">{casino.rating}</span>
+                </a>
+              ))}
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <a href="/predictions" class="px-4 h-full flex items-center text-[14px] font-bold text-king-text hover:text-king-accent transition-colors duration-200 capitalize tracking-tight">Betting Predictions</a>
+      <a href="/more" class="px-4 h-full flex items-center text-[14px] font-bold text-king-text hover:text-king-accent transition-colors duration-200 capitalize tracking-tight">More</a>
     </nav>
 
     <div class="flex items-center">
